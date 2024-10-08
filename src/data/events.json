@@ -1,306 +1,4 @@
 {
-  "6/17/2024": [
-    {
-      "allDay": false,
-      "start": 1718668800000,
-      "end": 1718668800000,
-      "name": "District 125 Board of Education Meeting",
-      "description": "Please visit the  Board of Education webpage  for additional information.",
-      "location": "District 125 Administration Building, 2 Stevenson Drive, Lincolnshire, IL",
-      "categories": []
-    }
-  ],
-  "6/19/2024": [
-    {
-      "allDay": true,
-      "start": 1718773200000,
-      "end": 1718859600000,
-      "name": "Juneteenth National Freedom Day (No School)",
-      "description": "",
-      "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
-    }
-  ],
-  "6/26/2024": [
-    {
-      "allDay": false,
-      "start": 1719406800000,
-      "end": 1719424800000,
-      "name": "Summer Art Fest (Session 1)",
-      "description": "All students from a summer art class (Art & Design, Digital Art & Design, & Photography) will be exhibiting artwork from that class to celebrate their hard work. The art fest will feature a variety of art mediums such as wire sculptures, clay vessels, photographs, digital paintings, etc.",
-      "location": "Stevenson High School | The Forum",
-      "categories": [
-        "Fine Arts"
-      ]
-    }
-  ],
-  "6/27/2024": [
-    {
-      "allDay": false,
-      "start": 1719492300000,
-      "end": 1719510600000,
-      "name": "Summer School - Session 1 End",
-      "description": "For more information, visit the  Summer School webpage.",
-      "location": null,
-      "categories": [
-        "Summer School"
-      ]
-    },
-    {
-      "allDay": false,
-      "start": 1719493200000,
-      "end": 1719511200000,
-      "name": "Summer Art Fest (Session 1)",
-      "description": "All students from a summer art class (Art & Design, Digital Art & Design, & Photography) will be exhibiting artwork from that class to celebrate their hard work. The art fest will feature a variety of art mediums such as wire sculptures, clay vessels, photographs, digital paintings, etc.",
-      "location": "Stevenson High School | The Forum",
-      "categories": [
-        "Fine Arts"
-      ]
-    }
-  ],
-  "7/1/2024": [
-    {
-      "allDay": false,
-      "start": 1719837900000,
-      "end": 1719856200000,
-      "name": "Summer School - Session 2 Start",
-      "description": "For more information, visit the  Summer School webpage.",
-      "location": null,
-      "categories": [
-        "Summer School"
-      ]
-    }
-  ],
-  "7/24/2024": [
-    {
-      "allDay": false,
-      "start": 1721826000000,
-      "end": 1721844000000,
-      "name": "Summer Art Fest (Session 2)",
-      "description": "All students from a summer art class (Art & Design, Digital Art & Design, & Photography) will be exhibiting artwork from that class to celebrate their hard work. The art fest will feature a variety of art mediums such as wire sculptures, clay vessels, photographs, digital paintings, etc.",
-      "location": "Stevenson High School | The Forum",
-      "categories": [
-        "Fine Arts"
-      ]
-    }
-  ],
-  "7/25/2024": [
-    {
-      "allDay": false,
-      "start": 1721911500000,
-      "end": 1721929800000,
-      "name": "Summer School - Session 2 End",
-      "description": "For more information, visit the  Summer School webpage.",
-      "location": null,
-      "categories": [
-        "Summer School"
-      ]
-    },
-    {
-      "allDay": false,
-      "start": 1721912400000,
-      "end": 1721930400000,
-      "name": "Summer Art Fest (Session 2)",
-      "description": "All students from a summer art class (Art & Design, Digital Art & Design, & Photography) will be exhibiting artwork from that class to celebrate their hard work. The art fest will feature a variety of art mediums such as wire sculptures, clay vessels, photographs, digital paintings, etc.",
-      "location": "Stevenson High School | The Forum",
-      "categories": [
-        "Fine Arts"
-      ]
-    }
-  ],
-  "7/30/2024": [
-    {
-      "allDay": false,
-      "start": 1722373200000,
-      "end": 1722387600000,
-      "name": "Stevenson High School Band Fundraiser - Chipotle",
-      "description": "Come support the Stevenson High School Band at the Lincolnshire Chipotle on Tuesday, July 30 from 4 - 8 p.m.! 25% of sales will go to support our program.\n\n\n\nMake sure to use the code  GEJCKZL  with your order to help support the fundraiser!",
-      "location": "Chipotle | Lincolnshire, IL",
-      "categories": [
-        "Fundraisers"
-      ]
-    }
-  ],
-  "8/9/2024": [
-    {
-      "allDay": true,
-      "start": 1723179600000,
-      "end": 1723266000000,
-      "name": "Freshmen Orientation Day 2024",
-      "description": "The  Freshman Mentor Program (FMP)  is a comprehensive advisory program that spans the length of freshman year and focuses on helping students create and maintain connections to campus, classmates and our community. The FMP upperclassman mentors are \"trusted guides\" who help students become familiar with Stevenson's physical layout, policies, programs, traditions and personnel, while simultaneously developing powerful relationships with each freshman. Each freshman will spend the day with their FMP mentors on Freshman Orientation Day, the first day of a year-long journey to help each freshman find success at Stevenson!\n\nFor more information, visit the  Incoming Freshman: Class of 2028 web page .",
-      "location": "Stevenson High School",
-      "categories": [
-        "Clubs and Activities",
-        "Orientations"
-      ]
-    }
-  ],
-  "8/12/2024": [
-    {
-      "allDay": true,
-      "start": 1723438800000,
-      "end": 1723525200000,
-      "name": "First Day of School",
-      "description": "",
-      "location": "Stevenson High School",
-      "categories": []
-    }
-  ],
-  "8/14/2024": [
-    {
-      "allDay": false,
-      "start": 1723674600000,
-      "end": 1723674600000,
-      "name": "Sports Booster Meeting",
-      "description": "All meetings begin at 5:30 p.m. in the Athletics Division Office (Room 5116 in PWC)",
-      "location": "Stevenson High School | Athletics Division Office (Room 5116 in PWC)",
-      "categories": [
-        "Parent Calendar",
-        "Athletics"
-      ]
-    }
-  ],
-  "8/16/2024": [
-    {
-      "allDay": false,
-      "start": 1723852800000,
-      "end": 1723860000000,
-      "name": "Freshmen Mixer",
-      "description": "For more information, visit the  Incoming Freshman: Class of 2028 web page .",
-      "location": "Stevenson High School | Pool Patio",
-      "categories": [
-        "Clubs and Activities"
-      ]
-    }
-  ],
-  "8/19/2024": [
-    {
-      "allDay": false,
-      "start": 1724112000000,
-      "end": 1724112000000,
-      "name": "District 125 Board of Education Meeting",
-      "description": "Please visit the  Board of Education webpage  for additional information.",
-      "location": "District 125 Administration Building, 2 Stevenson Drive, Lincolnshire, IL",
-      "categories": []
-    }
-  ],
-  "8/20/2024": [
-    {
-      "allDay": true,
-      "start": 1724130000000,
-      "end": 1724216400000,
-      "name": "Activity Period (Drill Day)",
-      "description": "",
-      "location": null,
-      "categories": [
-        "Activity Period"
-      ]
-    }
-  ],
-  "8/21/2024": [
-    {
-      "allDay": false,
-      "start": 1724284800000,
-      "end": 1724284800000,
-      "name": "Open House - Night 1",
-      "description": "Open House is scheduled for two nights, one of which parents should attend based on their last name. If you have a calendar conflict with the designated Open House evening, please feel free to attend on the other date. There is no need to inform us of the change. We encourage all parents to attend one of the two nights:\n * Before both Open House evenings start, freshman and transfer student families are invited to meet with their child's counselor from 6:15 p.m. - 6:45 p.m.\n* Wednesday, August 21, from 7:00 - 9:30 pm: Last Names A - L\n* Thursday, August 29, from 7:00 - 9:30 pm: Last Names M - Z\n \nFor more information, please read the communications for  Freshmen/Transfer Students  and  Sophomores/Juniors/Seniors .",
-      "location": "Stevenson High School",
-      "categories": [
-        "Parent Calendar"
-      ]
-    }
-  ],
-  "8/22/2024": [
-    {
-      "allDay": true,
-      "start": 1724302800000,
-      "end": 1724389200000,
-      "name": "Late Arrival",
-      "description": "",
-      "location": null,
-      "categories": [
-        "Late Arrival"
-      ]
-    }
-  ],
-  "8/24/2024": [
-    {
-      "allDay": true,
-      "start": 1724475600000,
-      "end": 1724562000000,
-      "name": "24 Hour Play Project",
-      "description": "",
-      "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
-    }
-  ],
-  "8/26/2024": [
-    {
-      "allDay": true,
-      "start": 1724648400000,
-      "end": 1724734800000,
-      "name": "Senior Parent Night",
-      "description": "",
-      "location": "Virtual Meeting via Zoom",
-      "categories": [
-        "CCC"
-      ]
-    }
-  ],
-  "8/29/2024": [
-    {
-      "allDay": true,
-      "start": 1724907600000,
-      "end": 1724994000000,
-      "name": "Activity Period (Senior Core Curriculum)",
-      "description": "Seniors \nThis is a mandatory meeting with your counselor during the activity period. You must attend this meeting even if you have a club.\n  \n\n DOWNLOAD :  Counselor Room Locations \n\n\n Clubs  *  TBA \n  All Other Students  * Remain in  your   second-period class  for the Activity Period.",
-      "location": null,
-      "categories": [
-        "Activity Period"
-      ]
-    },
-    {
-      "allDay": false,
-      "start": 1724976000000,
-      "end": 1724976000000,
-      "name": "Open House - Night 2",
-      "description": "Open House is scheduled for two nights, one of which parents should attend based on their last name. If you have a calendar conflict with the designated Open House evening, please feel free to attend on the other date. There is no need to inform us of the change. We encourage all parents to attend one of the two nights:\n * Before both Open House evenings start, freshman and transfer student families are invited to meet with their child's counselor from 6:15 p.m. - 6:45 p.m.\n* Wednesday, August 21, from 7:00 - 9:30 pm: Last Names A - L\n* Thursday, August 29, from 7:00 - 9:30 pm: Last Names M - Z\n \nFor more information, please read the communications for  Freshmen/Transfer Students  and  Sophomores/Juniors/Seniors .",
-      "location": "Stevenson High School",
-      "categories": [
-        "Parent Calendar"
-      ]
-    }
-  ],
-  "8/30/2024": [
-    {
-      "allDay": true,
-      "start": 1724994000000,
-      "end": 1725080400000,
-      "name": "Late Arrival",
-      "description": "",
-      "location": null,
-      "categories": [
-        "Late Arrival"
-      ]
-    }
-  ],
-  "9/2/2024": [
-    {
-      "allDay": true,
-      "start": 1725253200000,
-      "end": 1725339600000,
-      "name": "Labor Day (No School)",
-      "description": "",
-      "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
-    }
-  ],
   "9/11/2024": [
     {
       "allDay": false,
@@ -309,10 +7,25 @@
       "name": "Sports Booster Meeting",
       "description": "All meetings begin at 5:30 p.m. in the Athletics Division Office (Room 5116 in PWC)",
       "location": "Stevenson High School | Athletics Division Office (Room 5116 in PWC)",
-      "categories": [
-        "Parent Calendar",
-        "Athletics"
-      ]
+      "categories": ["Parent Calendar", "Athletics"]
+    },
+    {
+      "allDay": false,
+      "start": 1726095600000,
+      "end": 1726099200000,
+      "name": "Stevenson Family Engagement presents: Using the IRC and Canvas to Follow Learning",
+      "description": "Join us virtually to review how families can follow learning in their students' classes and observe assessments at Stevenson through the Interactive Report Card and Canvas.\n\n\n\n Zoom Link:   https://zoom.us/j/99576853959",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["Parent Calendar"]
+    },
+    {
+      "allDay": false,
+      "start": 1726099200000,
+      "end": 1726099200000,
+      "name": "Family Action Network presents: 10 to 25: The Science of Motivating Young People",
+      "description": "Join developmental psychologist, Dr. Yeager to learn about the Mentor Mindset. It is a practice that allows adults to stay attuned to young people, treat them respectfully and avoid frustrating patterns of miscommunication and conflict. A copy of Dr. Yeager's book will be given to participants (while supplies last). This event is free and suitable for youth 12+.\n\n\n\n\n\n\n\n\n\n\n\n\n Links  * Event Page:  https://www.familyactionnetwork.net/events/10-to-2... \n\n  \n\n\n\n\n\n\n* Register via Zoom:  https://docs.google.com/forms/d/e/1FAIpQLSduQSPAxz...",
+      "location": "Lake Forest High School",
+      "categories": ["Parent Calendar"]
     }
   ],
   "9/12/2024": [
@@ -323,9 +36,36 @@
       "name": "Late Arrival",
       "description": "",
       "location": null,
-      "categories": [
-        "Late Arrival"
-      ]
+      "categories": ["Late Arrival"]
+    },
+    {
+      "allDay": false,
+      "start": 1726182000000,
+      "end": 1726187400000,
+      "name": "Honors Senior Solo Recital",
+      "description": "This year's soloists represent some of Stevenson's most talented and skilled musicians. The soloists auditioned and were selected from a panel of judges who determined the four soloists featured in this highly esteemed performance.\n\nThe four soloists featured in this recital are from the band and orchestra program.\n\n Links \n\n\n *  Streaming via Vimeo \n*  DOWNLOAD: Event Program",
+      "location": "Stevenson High School | Recital Hall (Room 4100)",
+      "categories": ["Fine Arts"]
+    }
+  ],
+  "9/13/2024": [
+    {
+      "allDay": true,
+      "start": 1726203600000,
+      "end": 1726290000000,
+      "name": "CCC Presents: Resume Workshop for Jobs & Internships",
+      "description": "On Friday, Sept. 13 during lunch periods (4th-6th) in Room 2104, a resume workshop is being held! This workshop is for sophomores, juniors and seniors, and will help you prepare for  summer job applications  and  internship applications .\n\nYou'll be given resources and taught the basics of resumes, along with useful templates and dedicated time to start working on your resume. This is a great chance to build your skills and start a resume. If you are interested in attending,  please complete this Google Form . Please email Ms. Travis ( jtravis@d125.org ) with any questions.\n\nLooking forward to seeing you there!\n\n *   This is not a resume workshop for college applications.",
+      "location": "Stevenson High School | Room 2104",
+      "categories": ["CCC"]
+    },
+    {
+      "allDay": false,
+      "start": 1726272000000,
+      "end": 1726272000000,
+      "name": "Patriots Football: Varsity vs. Libertyville | Students Helping Soldiers presents: Touchdown for Troops",
+      "description": "Tickets \n\n  \n\n  https://gofan.co/event/1620187?schoolId=IL15688  \n\n\n\n\n\n Spirit Night \n\nIt's a CAMO OUT! All Stevenson students are encouraged to show their spirit and wear camouflage!\n\n Touchdowns for Troops \n\n\n\n   Students Helping Soldiers  will be helping local military veterans and supporting the Patriot football teams! Donate non-perishable items such as laundry detergent, dish soap, new pillows, household cleaners, paper products (i.e. paper towels, toilet paper), plastic silverware, paper plates and nowls, personal hygiene products, new socks (men and women), garbage bags (13 gal and 65 gal industrial). Look for the Students Helping Soldiers booth at the SHS home stands to make your donation. All donations benefit the individuals that  Veterans Path to Hope    serves by providing struggling vets a supply of basic necessities.\n\n Stream the Game LIVE! \n\n\n\nSHSTV and Sports Broadcasting Club will broadcast Friday's varsity Football vs. Libertyville game live on the Stevenson Patriot Athletics YouTube channel. These broadcasts are produced by the students of SHS-TV and Sports Broadcasting Club.\n\n Tune in live here:   https://www.youtube.com/@stevensonpatriotathletics6955/streams \n\n\n\n-----------------\n\nIt's Patriot Football season and we are excited to welcome fans to the stadium! As you prepare for Friday night's game, please be reminded of a few items below.\n * Tickets should be purchased in advance via GoFan (include the link)  https://gofan.co/app/school/IL15688 \n* Students are required to have their ID with them for entry into the stadium\n* All minors in grades K-8 need to be accompanied by an adult to enter. No more than 5 minors per adult.\n*  No Outside Food or Drink Permitted. \n*  No Re-Entry for Students. \n*    Bag Policy:  * Students are not permitted to enter with any backpacks or large bags.\n* All adult bags are subject to search.",
+      "location": "Stevenson High School | The Stadium",
+      "categories": ["Clubs and Activities", "Athletics"]
     }
   ],
   "9/14/2024": [
@@ -333,12 +73,10 @@
       "allDay": true,
       "start": 1726290000000,
       "end": 1726376400000,
-      "name": "Street Fest 2024",
-      "description": "For more information, visit the  Wellness Week | Street Fest web page !",
+      "name": "StreetFest 2024",
+      "description": "Stevenson's Wellness Week will culminate with our annual StreetFest (hosted by  National Honor Society  students) event featuring fireworks, live stage performances, interactive games, food trucks and activities from various Stevenson clubs and community agencies that all promote and support wellness!  The purpose is to raise money for local wellness-based charities ( Gift of Hope  and  Grow Wellness Foundation ) while raising awareness for overall student wellness.\n\n Important Notes: \n *  Backpacks and water bottles are prohibited. \n* Entrance and exit for StreetFest will be through the Half Day Road (Rt. 22) entrance. Port Clinton will be closed. Parking will be in lots B and D.\n* The Closing Ceremony will begin at 8:00 p.m. in the Stadium, followed by fireworks.\n* You cannot leave the event once the Closing Ceremony and fireworks have started for safety reasons.\n \n\n\n PURCHASE: Tickets for $10",
       "location": null,
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "9/16/2024": [
@@ -350,6 +88,48 @@
       "description": "Please visit the  Board of Education webpage  for additional information.",
       "location": "District 125 Administration Building, 2 Stevenson Drive, Lincolnshire, IL",
       "categories": []
+    },
+    {
+      "allDay": false,
+      "start": 1726531200000,
+      "end": 1726531200000,
+      "name": "Family Action Network presents: Math Mind: The Simple Path to Loving Math",
+      "description": "In her new book,  Math Mind: The Simple Path to Loving Math , Shalinee Sharma, one of the world's top experts on math learning, shows how complex problem-solving and puzzle solving, abstract and logical thinking, developing fluency with numbers, and cultivating persistence in math are crucial skills for success that can be taught to everyone and how math, far from being a dry, dull exercise, shares common ground with art and creativity. She also debunks the myths that prevent us from learning and enjoying math, with chapters dedicated to the three roadblocks that discourage adults and kids from learning.\n\n\n\n Links \n * Event Page:  https://www.familyactionnetwork.net/events/math-mi... \n\n  \n\n  \n\n\n\n\n\n\n* Register via Zoom:  https://us02web.zoom.us/webinar/register/571725037...",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["Parent Calendar"]
+    }
+  ],
+  "9/17/2024": [
+    {
+      "allDay": false,
+      "start": 1726617600000,
+      "end": 1726617600000,
+      "name": "Family Action Network presents: Above the Noise: My Story of Chasing Calm",
+      "description": "DeMar DeRozan, six-time NBA All-Star, has been called a \"basketball savant\" (ESPN) and \"the best closer in the NBA\" (GQ)-but when he went public with his depression, it sparked a conversation that reached far beyond the court. By breaking the stigma of speaking out, he added a new, seldom-heard voice to the mental health dialogue: a successful Black male athlete, openly naming his pain and advocating for others to do the same. Now it's time to tell the full story. Born and raised in Compton, DeRozan was no stranger to hardship-living in poverty, losing friends to gang violence. In worn-out school gyms and community centers, fueled by hunger and a desire to prove himself, he started to rise, but doubts followed. In  Above the Noise: My Story of Chasing Calm , DeRozan opens up about his proudest triumphs and the times he felt so weighed down he couldn't get out of bed. He reflects on what it took to make a name for himself in a new country after getting drafted by the Toronto Raptors, the pressure of playing with veteran athletes as a twenty-year-old rookie, and the pain of losing role models.\n\n\n\n Links \n * Event Page:  https://www.familyactionnetwork.net/events/above-t... \n\n  \n\n  \n\n  \n\n\n\n\n\n\n* Register via Zoom:  https://us02web.zoom.us/webinar/register/471725130...",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["Parent Calendar"]
+    }
+  ],
+  "9/19/2024": [
+    {
+      "allDay": false,
+      "start": 1726790400000,
+      "end": 1726790400000,
+      "name": "Family Action Network presents: Dismantling Mass Incarceration: A Handbook for Change",
+      "description": "In this pathbreaking reader, three of the nation's leading advocates-Premal Dharia, James Forman Jr., and Maria Hawilo-provide tools to move from despair and critique to hope and action.  Dismantling Mass Incarceration: A Handbook for Change  surveys various approaches to confronting the carceral state, exploring bold but practical interventions involving police, prosecutors, public defenders, judges, prisons, and even life after prison. Rather than prescribing solutions, the book offers a forum for discussions-and disagreements-about how to best confront the harms of mass incarceration. The contributors range from noted figures such as Angela Y. Davis, Clint Smith, Ph.D. (FAN '23), Emily Bazelon (FAN '13, '19), and Larry Krasner to local organizers, advocates, scholars, lawyers, and judges, as well as people who have been incarcerated.\n\n\n\n Links \n * Event Page:  https://www.familyactionnetwork.net/events/dismant... \n\n  \n\n  \n\n  \n\n  \n\n\n\n\n\n\n* Register via Zoom:  https://us02web.zoom.us/webinar/register/891725198...",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["Parent Calendar"]
+    }
+  ],
+  "9/20/2024": [
+    {
+      "allDay": true,
+      "start": 1726808400000,
+      "end": 1726894800000,
+      "name": "CCC Presents: Career Talks w/ Dr. Vlada Nakhlis (Doctor of Optometry)",
+      "description": "Join us in the College Career Center on Friday, Sept. 20 during all lunch periods as Dr. Vlada Nakhlis will be answering your questions and discussing her career via Zoom!\n\n\n\nDr. Nakhlis is a Doctor of Optometry and has been practicing for 20 years. She attended the University of Illinois Chicago, IL where she received her Bachelor of Science in Biology and then she completed her doctorate degree at Illinois College of Optometry Chicago, IL. She specializes in myopia control in children and ocular surface diseases and she is the proud owner of two optometry clinics in the Northern Suburbs of Chicago. Freshman through seniors can attend. \n\n\n\n\n\n Registration :  https://forms.gle/9169TuAougqbbHsF9   \n\n  If you have any questions, please email  jtravis@d125.org .",
+      "location": "Stevenson High School | College Career Center",
+      "categories": ["CCC"]
     }
   ],
   "9/23/2024": [
@@ -358,11 +138,9 @@
       "start": 1727067600000,
       "end": 1727154000000,
       "name": "Homecoming Week 2024",
-      "description": "For more information, visit the  Stevenson Homecoming 2024 hub !",
+      "description": "For all things Homecoming Week, please visit the  Hoco Hub !",
       "location": null,
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "9/24/2024": [
@@ -371,11 +149,27 @@
       "start": 1727154000000,
       "end": 1727240400000,
       "name": "Homecoming Week 2024",
-      "description": "For more information, visit the  Stevenson Homecoming 2024 hub !",
+      "description": "For all things Homecoming Week, please visit the  Hoco Hub !",
       "location": null,
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
+    },
+    {
+      "allDay": false,
+      "start": 1727222400000,
+      "end": 1727222400000,
+      "name": "Catalyst presents: \"The School of Hard Talks: How to Have Real Conversations with Your (Almost Grown) Kids\"",
+      "description": "Special guest, Dr. Emily Kline, a child clinical psychologist who has held faculty positions at Boston University and Harvard Medical School, will be discussing motivational interviewing, an evidence-based practice for communicating in clinical settings about substance use and other important behavior changes.\n\n REGISTER :  https://www.eventbrite.com/e/how-to-have-real-conv...",
+      "location": "Stevenson High School | Recital Hall (Room 4100)",
+      "categories": ["Parent Calendar"]
+    },
+    {
+      "allDay": false,
+      "start": 1727222400000,
+      "end": 1727226000000,
+      "name": "CCC Presents: Career Talks w/ Shezia Huq (Engineering Manager)",
+      "description": "Join us virtually on Tuesday, Sept. 24 from 7 p.m. - 8 p.m. as Ms. Shezia Huq from Siemens will discuss her career as an engineering manager.\n\nMs. Huq is a senior project manager for global engineering projects and an engineering manager. She has 26 years of experience in the computer science and engineering field. Please consider attending if you are interested in the STEM fields by completing this Google Form below.\n\n \n\n\n\n\n\n Registration :  https://forms.gle/kbNQEbkad3vMrmty6\n  Zoom Link:   https://zoom.us/j/92370951375 \n\n  If you have any questions, please email  jtravis@d125.org .",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["CCC"]
     }
   ],
   "9/25/2024": [
@@ -384,11 +178,18 @@
       "start": 1727240400000,
       "end": 1727326800000,
       "name": "Homecoming Week 2024",
-      "description": "For more information, visit the  Stevenson Homecoming 2024 hub !",
+      "description": "For all things Homecoming Week, please visit the  Hoco Hub !",
       "location": null,
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
+    },
+    {
+      "allDay": false,
+      "start": 1727308800000,
+      "end": 1727308800000,
+      "name": "Family Action Network presents: Class Dismissed: When Colleges Ignore Inequality & Students Pay the Price",
+      "description": "Elite colleges are boasting unprecedented numbers with respect to diversity, with some schools admitting their first majority-minority classes. But when the twin pandemics of COVID-19 and racial unrest gripped the world, schools scrambled to figure out what to do with the diversity they so fervently recruited. And disadvantaged students suffered. In his new book,  Class Dismissed: When Colleges Ignore Inequality and Students Pay the Price , Anthony Abraham Jack, Ph.D. exposes how woefully unprepared colleges were to support these students and shares their stories of how they were left to weather the storm alone and unprotected.\n\n\n\n Links \n * Event Page:  https://www.familyactionnetwork.net/events/class-d... \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n\n\n\n\n\n* Register via Zoom:  https://us02web.zoom.us/webinar/register/581725295...",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["Parent Calendar"]
     }
   ],
   "9/26/2024": [
@@ -397,11 +198,18 @@
       "start": 1727326800000,
       "end": 1727413200000,
       "name": "Homecoming Week 2024",
-      "description": "For more information, visit the  Stevenson Homecoming 2024 hub !",
+      "description": "For all things Homecoming Week, please visit the  Hoco Hub !",
       "location": null,
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
+    },
+    {
+      "allDay": false,
+      "start": 1727395200000,
+      "end": 1727395200000,
+      "name": "Family Action Network presents: Hope for Cynics: The Surprising Science of Human Goodness",
+      "description": "We don't have to remain stuck in this cynicism trap. Through science and storytelling, Jamil Zaki, Ph.D. (FAN '19), director of the Stanford Social Neuroscience Laboratory and author of the new book  Hope for Cynics: The Surprising Science of Human Goodness , imparts the secret for beating back cynicism: hopeful skepticism-thinking critically about people and our problems, while honoring and encouraging our strengths. Far from being naïve, hopeful skepticism is a precise way of understanding others that can rebalance our view of human nature and help us build the world we truly want.\n\n\n\n Links \n * Event Page:  https://www.familyactionnetwork.net/events/hope-fo... \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n\n\n\n\n\n* Register via Zoom:  https://us02web.zoom.us/webinar/register/431725314...",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["Parent Calendar"]
     }
   ],
   "9/27/2024": [
@@ -410,11 +218,9 @@
       "start": 1727413200000,
       "end": 1727499600000,
       "name": "Homecoming Week 2024",
-      "description": "For more information, visit the  Stevenson Homecoming 2024 hub !",
+      "description": "For all things Homecoming Week, please visit the  Hoco Hub !",
       "location": null,
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     },
     {
       "allDay": true,
@@ -423,9 +229,7 @@
       "name": "PPA Treat Day",
       "description": "",
       "location": "Stevenson High School | Wood Commons & East Glass Commons",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     },
     {
       "allDay": false,
@@ -434,20 +238,25 @@
       "name": "PM Assembly",
       "description": "",
       "location": "Stevenson High School | The Stadium",
-      "categories": [
-        "Early Dismissal"
-      ]
+      "categories": ["Early Dismissal"]
+    },
+    {
+      "allDay": false,
+      "start": 1727476200000,
+      "end": 1727476200000,
+      "name": "Homecoming Game: Varsity Patriots Flag Football vs. Maine South",
+      "description": "Tickets \n  \n\n  https://gofan.co/event/1620187?schoolId=IL15688  \n Spirit Night \nIt's a NEON OUT! All Stevenson students are encouraged to show their spirit and wear their brightest neon gear!\n\n  \n\n-----------------\n\n Admittance to the Patriots Varsity Football game will require the following: \n * A purchased ticket, GoFan Booster, or Activity Pass is Required for entry.\n* Stevenson students are required to have their   current student ID   with them for entry to the football game.\n* Tickets should be   purchased in advance   via GoFan  https://gofan.co/app/school/IL15688 \n* If you have EVENT printed on your ID please proceed to the line identified for passholders.\n* As a friendly reminder, there is no re-entry for students.",
+      "location": "Stevenson High School | The Stadium",
+      "categories": ["Athletics"]
     },
     {
       "allDay": false,
       "start": 1727481600000,
       "end": 1727481600000,
-      "name": "Homecoming Game: Varsity Patriots Football vs. TBA",
-      "description": "Admittance to the Patriots Varsity Football game will require the following: \n * A purchased ticket, GoFan Booster, or Activity Pass is Required for entry.\n* Stevenson students are required to have their   current student ID   with them for entry to the football game.\n* Tickets should be   purchased in advance   via GoFan  https://gofan.co/app/school/IL15688 \n* If you have EVENT printed on your ID please proceed to the line identified for passholders.\n* As a friendly reminder, there is no re-entry for students.",
+      "name": "Homecoming Game: Varsity Patriots Football vs. Waukegan",
+      "description": "Tickets \n  \n\n  https://gofan.co/event/1620187?schoolId=IL15688  \n Spirit Night \nIt's a NEON OUT! All Stevenson students are encouraged to show their spirit and wear their brightest neon gear!\n\n\n Stream the Game LIVE! \nSHSTV and Sports Broadcasting Club will broadcast Friday's varsity Football vs. Waukegan game live on the Stevenson Patriot Athletics YouTube channel. These broadcasts are produced by the students of SHS-TV and Sports Broadcasting Club.\n\n  \n\n Tune in live here:   https://www.youtube.com/@stevensonpatriotathletics6955/streams \n\n-----------------\n\n Admittance to the Patriots Varsity Football game will require the following: \n * A purchased ticket, GoFan Booster, or Activity Pass is Required for entry.\n* Stevenson students are required to have their   current student ID   with them for entry to the football game.\n* Tickets should be   purchased in advance   via GoFan  https://gofan.co/app/school/IL15688 \n* If you have EVENT printed on your ID please proceed to the line identified for passholders.\n* As a friendly reminder, there is no re-entry for students.",
       "location": "Stevenson High School | The Stadium",
-      "categories": [
-        "Athletics"
-      ]
+      "categories": ["Athletics"]
     }
   ],
   "9/28/2024": [
@@ -456,11 +265,9 @@
       "start": 1727499600000,
       "end": 1727586000000,
       "name": "Homecoming Dance 2024",
-      "description": "More information coming soon!",
+      "description": "*  PURCHASE: Tickets \n*  SUBMIT: Guest Form  (due on Thursday, Sept. 19)",
       "location": "Stevenson High School",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "9/30/2024": [
@@ -469,11 +276,18 @@
       "start": 1727740800000,
       "end": 1727740800000,
       "name": "CCC Presents: Financial Aid Night",
-      "description": "",
+      "description": "The College Career Center will hold its annual Financial Aid Night at 7 p.m. on Monday, Sept. 30 at the Performing Arts Center and live-streamed via Zoom ( https://zoom.us/j/95296140065 ). This event will be recorded and the slides and recording will be available on the College Career Center website within a week of the event.\n\nPost Secondary Counselors Ms. Sara Hanson and Mr. Dan Miller will partner with Mr. Jerry Cebrzynski, Associate Vice President for Financial Aid at Lake Forest College, for this presentation, which is meant primarily for families who have current juniors or seniors.\n\nDetails about applying for college financial assistance through the Free Application for Federal Student Aid (FAFSA) will be discussed, along with the types of financial aid available, and how eligibility for aid is determined. Families with seniors typically complete their FAFSA form in October (for the class of 2025, the FAFSA will open on December 1st).",
+      "location": "Stevenson High School | Performing Arts Center & Zoom",
+      "categories": ["CCC"]
+    },
+    {
+      "allDay": false,
+      "start": 1727740800000,
+      "end": 1727740800000,
+      "name": "Family Action Network presents: Holding It Together: How Women Became America's Safety Net",
+      "description": "Holding it Together: How Women Became America's Social Safety Net  draws on five years of research in which Calarco, a sociologist and associate professor at the University of Wisconsin-Madison, surveyed over 4,000 parents and conducted more than 400 hours of interviews with women who bear the brunt of our broken system. Tracing present-day policies back to their roots, Calarco reveals a systematic agreement to dismantle our country's social safety net and persuade citizens to accept precarity while women bear the brunt. She leads us to see women's labor as the reason we've gone so long without the support systems that our peer nations take for granted, and how women's work maintains the illusion that we don't need a net.\n\n Links \n * Event Page:  https://www.familyactionnetwork.net/events/holding... \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n\n\n\n\n\n* Register via Zoom:  https://us02web.zoom.us/webinar/register/101725453...",
       "location": "Virtual Meeting via Zoom",
-      "categories": [
-        "CCC"
-      ]
+      "categories": ["Parent Calendar"]
     }
   ],
   "10/1/2024": [
@@ -482,11 +296,9 @@
       "start": 1727827200000,
       "end": 1727827200000,
       "name": "Fall Band Concert",
-      "description": "",
+      "description": "Join the Fine Arts department as the 3nd Period Symphonic Band, 5th Period Symphonic Band, Wind Symphony and Wind Ensemble groups perform music from the last century by diverse composers.\n\n\n\n Links \n\n\n *  Streaming via Vimeo \n*  DOWNLOAD: Event Program",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "10/3/2024": [
@@ -497,35 +309,58 @@
       "name": "Non-Attendance Day",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "10/5/2024": [
     {
-      "allDay": true,
-      "start": 1728104400000,
-      "end": 1728190800000,
+      "allDay": false,
+      "start": 1728154800000,
+      "end": 1728154800000,
       "name": "2024 Fall Play: Anon(ymous)",
-      "description": "",
+      "description": "Separated from his mother, a young refugee named Anon embarks on a perilous journey across the United States, encountering a diverse array of characters-some compassionate, others dangerously cruel. From a sinister one-eyed butcher to charming barflies and a special curry restaurant, Anon must navigate an unpredictable, ever-changing landscape to reunite with his family. \"Anon(ymous),\" commissioned by the Children's Theatre Company of Minneapolis and written in 2006 by Japanese-American playwright Naomi Iizuka, reimagines Homer's The Odyssey through the eyes of a modern-day refugee. The play explores serious themes as our young hero makes life-altering decisions-some lives are saved, while others are lost. With its captivating blend of magical realism and ensemble storytelling, \"Anon(ymous)\" resonates with our shared human quest for belonging and how we are shaped along the way.\n\n  *Patriot Theatre Company advises Anon(ymous) has mature content due to moments of discrimination and violence. This production runs approximately 90 minutes with no intermission and utilizes moments of flashing lights, lights directed at the audience, and a6 6tmospheric fog.  \n\n TICKETS: \n *    Saturday, Oct. 5 @ 2 p.m.   \n\n\n*    Saturday, Oct. 5 @ 7 p.m.   \n\n\n*    Sunday, Oct. 6 @ 2 p.m.   \n\n\n*  DOWNLOAD: Event Program",
       "location": "Stevenson High School | The Little Theatre (Room 4200)",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
+    },
+    {
+      "allDay": false,
+      "start": 1728172800000,
+      "end": 1728172800000,
+      "name": "2024 Fall Play: Anon(ymous)",
+      "description": "Separated from his mother, a young refugee named Anon embarks on a perilous journey across the United States, encountering a diverse array of characters-some compassionate, others dangerously cruel. From a sinister one-eyed butcher to charming barflies and a special curry restaurant, Anon must navigate an unpredictable, ever-changing landscape to reunite with his family. \"Anon(ymous),\" commissioned by the Children's Theatre Company of Minneapolis and written in 2006 by Japanese-American playwright Naomi Iizuka, reimagines Homer's The Odyssey through the eyes of a modern-day refugee. The play explores serious themes as our young hero makes life-altering decisions-some lives are saved, while others are lost. With its captivating blend of magical realism and ensemble storytelling, \"Anon(ymous)\" resonates with our shared human quest for belonging and how we are shaped along the way.\n\n  *Patriot Theatre Company advises Anon(ymous) has mature content due to moments of discrimination and violence. This production runs approximately 90 minutes with no intermission and utilizes moments of flashing lights, lights directed at the audience, and a6 6tmospheric fog.  \n\n TICKETS: \n *    Saturday, Oct. 5 @ 2 p.m.   \n\n\n*    Saturday, Oct. 5 @ 7 p.m.   \n\n\n*    Sunday, Oct. 6 @ 2 p.m.   \n\n\n*  DOWNLOAD: Event Program",
+      "location": "Stevenson High School | The Little Theatre (Room 4200)",
+      "categories": ["Fine Arts"]
+    },
+    {
+      "allDay": false,
+      "start": 1728177600000,
+      "end": 1728177600000,
+      "name": "Varsity Boys Ice Hockey vs. Brother Rice: Cancer Wellness Center Fundraiser",
+      "description": "",
+      "location": "Twin Rinks Ice Pavilion | Buffalo Grove, IL",
+      "categories": ["Fundraisers", "Athletics"]
     }
   ],
   "10/6/2024": [
     {
-      "allDay": true,
-      "start": 1728190800000,
-      "end": 1728277200000,
+      "allDay": false,
+      "start": 1728241200000,
+      "end": 1728241200000,
       "name": "2024 Fall Play: Anon(ymous)",
-      "description": "",
+      "description": "Separated from his mother, a young refugee named Anon embarks on a perilous journey across the United States, encountering a diverse array of characters-some compassionate, others dangerously cruel. From a sinister one-eyed butcher to charming barflies and a special curry restaurant, Anon must navigate an unpredictable, ever-changing landscape to reunite with his family. \"Anon(ymous),\" commissioned by the Children's Theatre Company of Minneapolis and written in 2006 by Japanese-American playwright Naomi Iizuka, reimagines Homer's The Odyssey through the eyes of a modern-day refugee. The play explores serious themes as our young hero makes life-altering decisions-some lives are saved, while others are lost. With its captivating blend of magical realism and ensemble storytelling, \"Anon(ymous)\" resonates with our shared human quest for belonging and how we are shaped along the way.\n\n  *Patriot Theatre Company advises Anon(ymous) has mature content due to moments of discrimination and violence. This production runs approximately 90 minutes with no intermission and utilizes moments of flashing lights, lights directed at the audience, and a6 6tmospheric fog.  \n\n TICKETS: \n *    Saturday, Oct. 5 @ 2 p.m.   \n\n\n*    Saturday, Oct. 5 @ 7 p.m.   \n\n\n*    Sunday, Oct. 6 @ 2 p.m.   \n\n\n*  DOWNLOAD: Event Program",
       "location": "Stevenson High School | The Little Theatre (Room 4200)",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
+    }
+  ],
+  "10/7/2024": [
+    {
+      "allDay": false,
+      "start": 1728345600000,
+      "end": 1728345600000,
+      "name": "Family Action Network presents: Meditations for Mortals: Four Weeks to Embrace Your Limitations and Make Time for What Counts",
+      "description": "Burkeman's occasional newsletter  The Impefectionist  is just ... perfect. Each missive has nugget after nugget of insight and brilliance and compassion and humor about grind culture, the overlords of \"productivity\" and \"success,\" the demands on our attention, the importance of \"enough.\" His earlier book  Four Thousand Weeks  (the number of weeks you'll live if you are lucky to make it to 80) is a huge bestseller, with countless tribute from readers who liberated their lives from the dreary fantasy of getting it all done. His new book is soooo great, and we are completely gobsmacked that we get to host him. NOT TO BE MISSED.\n\n\n\n\n\n\n\n Links \n * Event Page:  https://www.familyactionnetwork.net/events/meditat... \n\n\n\n\n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n\n\n\n\n\n* Register via Zoom:  https://us02web.zoom.us/webinar/register/291726954... \n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n<a href=\"http://www.d125.org/forward.cfm?dest=https%3A%2F%2Fus02web%2Ezoom%2Eu&destkey=5DD0DFDCC2C012DF989D19ADD99F2B4E5001D275F61BF7E1D823D0EAFCD3A8B0",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["Parent Calendar"]
     }
   ],
   "10/8/2024": [
@@ -533,23 +368,46 @@
       "allDay": true,
       "start": 1728363600000,
       "end": 1728450000000,
-      "name": "Activity Period",
+      "name": "Activity Period (Junior Core Curriculum)",
       "description": "",
       "location": null,
-      "categories": [
-        "Activity Period"
-      ]
+      "categories": ["Activity Period"]
+    },
+    {
+      "allDay": false,
+      "start": 1728424800000,
+      "end": 1728432000000,
+      "name": "CCC Features: College Essay Workshop",
+      "description": "The Student Learning Program will be hosting a Common App editing workshop for seniors on Tuesday, October 8th, from 5:00 PM to 7:00 PM in room 2104. This workshop is designed for students who have already completed their Common App essays and are looking to revise and refine their work before the October 15th application deadline.\n\nTo participate, students must complete the  Google Form  found on the ILC/ELC Canvas page. Space is limited, so be sure to apply soon!\n\nThis workshop is designed to help you enhance your Common App essay for college applications, with an emphasis on editing your drafts for final submission. Please note that this session is not intended for brainstorming; participants should come prepared with a completed draft. To attend, please submit the Google Form by  October 4, 2024.",
+      "location": "Stevenson High School | Room 2104",
+      "categories": ["CCC"]
+    },
+    {
+      "allDay": false,
+      "start": 1728428400000,
+      "end": 1728428400000,
+      "name": "Stevenson Family Engagement presents: Learning Supports at Stevenson",
+      "description": "Did you know Stevenson offers tutoring free of charge? Brett Erdmann, Director of Student Learning Programs will talk about Learning Supports for students that are designed so that they can access responsive, timely, targeted support wherever and whenever they need it.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Links  * Zoom Link:  https://zoom.us/j/94112481379",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["Parent Calendar"]
     },
     {
       "allDay": false,
       "start": 1728432000000,
       "end": 1728432000000,
       "name": "Fall Choir Concert",
-      "description": "",
+      "description": "Fall Choir Concert featuring Stevenson Choir, Advanced Choir and Patriot Singers, primarily highlighting music of Latina, Black and Female composers! Join us at Culver's in Lincolnshire or Buffalo Grove after the concert to help support the choir program!\n\n\n\n Links \n *  Streaming via Vimeo \n*  DOWNLOAD: Event Program",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
+    },
+    {
+      "allDay": false,
+      "start": 1728432000000,
+      "end": 1728432000000,
+      "name": "Family Action Network presents: Rising Together: Crafting Connections Through Baking",
+      "description": "Well, who doesn't love a program centered on baked goods?! Krauss had a great run on the Great British Baking Show, a kind, low-key, skilled baker who wowed the judges many times. Local fave bakery Hewn Bread co-owner Ellen King has struck up a friendship with Krauss and invited him to the US for a few days of baking and learning. There will be yummy treats at the FAN event -- a great opportunity to come out with the family, relax, and enjoy yourself! \n\n\n\n\n\n Links \n * Event Page:  https://www.familyactionnetwork.net/events/rising-...",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["Parent Calendar"]
     }
   ],
   "10/9/2024": [
@@ -560,31 +418,16 @@
       "name": "CCC Presents: First-Generation Night",
       "description": "For more information visit the  First-Generation Families web page.",
       "location": "Virtual Meeting via Zoom",
-      "categories": [
-        "CCC"
-      ]
+      "categories": ["CCC"]
     },
     {
       "allDay": true,
       "start": 1728450000000,
       "end": 1728536400000,
-      "name": "Patriot Guitar Concert",
-      "description": "",
-      "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
-    },
-    {
-      "allDay": true,
-      "start": 1728450000000,
-      "end": 1728536400000,
-      "name": "Testing Day (PSAT/NMSQT)",
+      "name": "Testing Day (Digital PSAT/NMSQT)",
       "description": "For more information, visit the  PSAT - SAT - ACT Testing web page .",
       "location": "Stevenson High School",
-      "categories": [
-        "Testing Day"
-      ]
+      "categories": ["Testing Day"]
     },
     {
       "allDay": false,
@@ -593,10 +436,25 @@
       "name": "Sports Booster Meeting",
       "description": "All meetings begin at 5:30 p.m. in the Athletics Division Office (Room 5116 in PWC)",
       "location": "Stevenson High School | Athletics Division Office (Room 5116 in PWC)",
-      "categories": [
-        "Parent Calendar",
-        "Athletics"
-      ]
+      "categories": ["Parent Calendar", "Athletics"]
+    },
+    {
+      "allDay": false,
+      "start": 1728518400000,
+      "end": 1728518400000,
+      "name": "Family Action Network presents: Assembling Tomorrow: A Guide to Designing a Thriving Future",
+      "description": "No, we are NOT done hosting the incredible folks from Stanford's d.school! This time, we get two of the top leaders of the school discussing their amazingly conceived (and illustrated) book about futures thinking, rectifying the mistakes of the past, and the power we each have to create the future we want. This is a civics topic, a history topic, a psychology topic, an education topic, parenting, too, and more. We're fortunate to have the extra-extra Liz Gerber to lead the conversation, herself a d.school alum, and just so dang open and smart. A great night for all.\n\n\n\n\n\n Links \n * Event Page:  https://www.familyactionnetwork.net/events/assembl... \n\n\n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n\n\n\n\n\n* Register via Zoom:  https://us02web.zoom.us/webinar/register/971727110... \n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n\n</",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["Parent Calendar"]
+    },
+    {
+      "allDay": false,
+      "start": 1728518400000,
+      "end": 1728518400000,
+      "name": "Patriot Guitar Ensemble Concert",
+      "description": "The guitar program's first concert of the year featuring our auditioned Patriot Guitar Ensemble.\n  Links  \n\n *  Streaming via Vimeo \n*  DOWNLOAD: Event Program",
+      "location": "Stevenson High School | West Auditorium",
+      "categories": ["Fine Arts"]
     }
   ],
   "10/10/2024": [
@@ -607,20 +465,7 @@
       "name": "Late Arrival",
       "description": "",
       "location": null,
-      "categories": [
-        "Late Arrival"
-      ]
-    },
-    {
-      "allDay": true,
-      "start": 1728536400000,
-      "end": 1728622800000,
-      "name": "Testing Day (PSAT/NMSQT)",
-      "description": "For more information, visit the  PSAT - SAT - ACT Testing web page .",
-      "location": "Stevenson High School",
-      "categories": [
-        "Testing Day"
-      ]
+      "categories": ["Late Arrival"]
     }
   ],
   "10/11/2024": [
@@ -629,11 +474,9 @@
       "start": 1728658800000,
       "end": 1728678600000,
       "name": "NHS Fall 2024 Blood Drive",
-      "description": "",
+      "description": "Every donation saves 3 lives! National Honor Society is hosting their fall drive on Friday, Oct. 11 in the Wrestling Room. Sign-up spots available to donate blood during periods 4 through 4:30 pm. Students are encouraged to sign up to donate during their lunch period or after school. They can also sign up during a class period but must also complete a field trip form and receive permission from a teacher to attend. up For requirements and link to \n\n Signup :  https://www.signupgenius.com/go/10C0845A4AD23A3F4C25-51661561-nhsblood#/ \n * Students must be 16 years of age to donate\n* All students participating must have a  signed consent form \n* Any student attending during a class period must also complete a  field trip form  and receive permission from a teacher to attend\n \nAll donors will receive a coupon for a pint of frozen custard at Culver's!",
       "location": "Stevenson High School | Wrestling Room",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "10/14/2024": [
@@ -644,9 +487,36 @@
       "name": "Columbus Day (No School)",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
+    },
+    {
+      "allDay": false,
+      "start": 1728950400000,
+      "end": 1728950400000,
+      "name": "Family Action Network presents:The Architecture of Urbanity: Designing for Nature, Culture, and Joy",
+      "description": "Chakrabarti is one of the top architects and designers working today, and a media-savvy writer and opiner who loves, LOVES cities, and has a clear, astounding vision for how to create \"ecological urbanism.\" He aims for design that is fully inclusive, responsive to cultural, racial, and socioeconomic concerns. He is a pragmatic optimist, and is a leading voice on the possibilities of public spaces. His interlocutor, Reed Kroloff, is the dean of the school of architecture at IIT in Chicago. A necessary, intelligent, future-forward topic.\n\n\n\n\n\n\n\n\n\n Links \n * Event Page:  https://www.familyactionnetwork.net/events/the-arc... \n\n\n\n\n\n\n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n\n\n\n\n\n* Register via Zoom:  https://us02web.zoom.us/webinar/register/591727202... \n\n  \n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n<a href=\"http://www.d125.org/forward.cfm?dest=https%3A&destkey=C2BD933536C061AC3312CF62922391834F4D5124BC4BC9A1FD306C11E23052D5",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["Parent Calendar"]
+    }
+  ],
+  "10/16/2024": [
+    {
+      "allDay": false,
+      "start": 1729119600000,
+      "end": 1729119600000,
+      "name": "Stevenson Family Engagement presents: You're an ADULT!? What to Expect When Your Teen Turns 18",
+      "description": "Congratulations! Your teen is 18! Do you know that also means they are an ADULT?!\n\nJoin Alan Press and Caren Naidoff from the Shire Law Group for this virtual discussion. They will discuss what actions you need to take as your teen's legal guardian and talk about how your rights to your teen's financial, medical, and education records change. Alan and Caren will also advise participants on the steps to take so they can help with medical and financial matters for their young adult.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n Links  * Zoom Link:  https://zoom.us/j/93112369571",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["Parent Calendar"]
+    },
+    {
+      "allDay": false,
+      "start": 1729123200000,
+      "end": 1729126800000,
+      "name": "CCC Presents: Career Talks w/ Joe Taborek (Global VP of Sales/Chief Revenue Officer)",
+      "description": "Join us virtually on Wednesday, October 16th from 7 - 8 p.m. as Mr. Joe Taborek will discuss his career as the Global VP of Sales/Chief Revenue Officer.\n\nMr.Taborek received his BS in Finance (Indiana University), and his career spans many stops across enterprise software, from selling as an individual contributor to the executive positions he held later in his career.\n\nCurrently, he runs all Go To Market functions for the software company he works for. At the core of his work is sales, but the different teams that report to him across GTM are Marketing, Sales, Professional Services, Customer Success, and Customer Support. Within those teams, many jobs come together to deliver increasing and predictable revenue and success for the company. These functions comprise how the company markets, sells, delivers solutions, and makes its customers successful.\n\nIf you are interested in attending, please complete this Google Form below. You will be sent the Zoom link via email before the presentation after you sign up. Please email Ms. Travis ( jtravis@d125.org ) with any questions.\n\n\n\n\n\n Registration :  https://forms.gle/2Pfv1nxdnE9dejV98",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["CCC"]
     }
   ],
   "10/17/2024": [
@@ -655,22 +525,45 @@
       "start": 1729141200000,
       "end": 1729227600000,
       "name": "Yearbook Photo Re-Take Day",
-      "description": "View your School Portraits, and select your yearbook/class picture before Retake Day!\n * *The final deadline is two weeks after retake day; if you do not pick an image VIP will choose a yearbook image for you*\n* To view your student's school portraits look for an email sent to you by \"Visual Image Photography\", or go to  vipis.com \n* Retake pictures will be taken on  Thur   10/17/24 & Fri 10/18/24 (10 a.m. - 3:30 p.m. - location TBA) . This is for students who have not yet taken a Yearbook Portrait this year, or for students who have reported a need for a new picture\n* Retake photos will be added to your online image gallery about a week after photo day\n* If you have any questions, please email  support@vipis.com \n \nSeniors who took a photo on School Picture Day AND paid for a \"VIP Premier Senior Portrait Session\" -- the image you choose from your Premier Session gallery will be your yearbook selection. If you'd rather use an image taken during the fall School Picture Day instead, please contact  support@vipis.com",
+      "description": "View your School Portraits, and select your yearbook/class picture before Retake Day!\n * *The final deadline is two weeks after retake day; if you do not pick an image VIP will choose a yearbook image for you*\n* To view your student's school portraits look for an email sent to you by \"Visual Image Photography\", or go to  vipis.com \n* Retake pictures will be taken on  Thur   10/17/24 & Fri 10/18/24 (10 a.m. - 3:30 p.m. - Recital Hall) . This is for students who have not yet taken a Yearbook Portrait this year, or for students who have reported a need for a new picture\n* Retake photos will be added to your online image gallery about a week after photo day\n* If you have any questions, please email  support@vipis.com \n \nSeniors who took a photo on School Picture Day AND paid for a \"VIP Premier Senior Portrait Session\" -- the image you choose from your Premier Session gallery will be your yearbook selection. If you'd rather use an image taken during the fall School Picture Day instead, please contact  support@vipis.com",
       "location": "Stevenson High School | TBA",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     },
     {
       "allDay": false,
       "start": 1729207800000,
-      "end": 1729207800000,
+      "end": 1729210500000,
       "name": "Fall Orchestra Concert",
-      "description": "",
+      "description": "The Fall Orchestra Concert will feature students from all curricular orchestra classes in their first performance event of the year. The musical highlights will be centered around music with dark, spooky themes, contrasting with high energy and lush selections. A treat for the eyes and ears!\n\nThis concert is always exciting, as it is a premiere for each of our new ensembles and the first time on our SHS concert stage for many new students. The fall themes really help color the event into something special!\n Links \n\n *  Streaming via Vimeo \n*  DOWNLOAD: Event Program",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
+    },
+    {
+      "allDay": false,
+      "start": 1729209600000,
+      "end": 1729213200000,
+      "name": "CCC Presents: Career Talks w/ Dr, Dhruv Kumar Internal Medicine Physician",
+      "description": "Join us virtually on Thursday, October 17th from 7 - 8 p.m. as Mr. Dhruv Kumar will discuss his career as an Internal Medicine Physician.\n\nMr.Kumar completed his undergraduate education at UIUC, attended Loyola University for medical school, and completed his Residency in Michigan. Currently, he works as an Assistant Professor in the Department of Medicine and as a Physician. He works with medical students, residents, and is a part of many committees surrounding the medical field.\n\nIf you are interested in attending, please complete the Google Form below. You will be sent the Zoom link via email before the presentation after you sign-up. Please email Ms. Travis ( jtravis@d125.org ) with any questions.\n\n\n\n\n\n\n\n Registration :  https://forms.gle/4cWX17ubcABJWhLDA",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["CCC"]
+    },
+    {
+      "allDay": false,
+      "start": 1729209600000,
+      "end": 1729209600000,
+      "name": "Family Action Network presents: Leaders as Futurists: Cultivating Civic Imagination for a Dynamic World",
+      "description": "We met Solomon at Bob Sutton's After-Hours event this past May, and WOW, we were knocked over by her energy, generosity, openheartedness, and super-quick mind. THEN we learned that she's a \"Futurist in Residence\" at Stanford's d. school (wondering if they have any job openings?), and THEN we learned that she is obsessed with creating structures for civic thinking and civic engagement. Sign us up!! Great program for election season, and for those of you (all of you!) who would love to have a conversation about civil discourse and the future of democracy that doesn't devolve instantaneously into freeze-dried polarization. Liz Gerber works with Lisa on various projects, and we can't wait to jump in with these two geniuses!\n\n\n\n\n\n\n\n\n\n Links \n * Event Page:  https://www.familyactionnetwork.net/events/leaders... \n\n  \n\n\n\n\n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n\n\n\n\n\n* Register via Zoom:  https://us02web.zoom.us/webinar/register/831727556... \n\n  \n\n\n\n  \n\n  \n\n  \n\n  \n\n<a href=\"http://www.d125.org/forward.cfm?dest=https%3A%2F%2Fus02web%2Ezo&destkey=4CD2B83F546A1983A7D166A33A733973F655B233C273AE1F7CC04E180C0613D1",
+      "location": "Virtual Meeting via Zoom",
+      "categories": ["Parent Calendar"]
+    },
+    {
+      "allDay": false,
+      "start": 1729211400000,
+      "end": 1729214100000,
+      "name": "Fall Orchestra Concert",
+      "description": "The Fall Orchestra Concert will feature students from all curricular orchestra classes in their first performance event of the year. The musical highlights will be centered around music with dark, spooky themes, contrasting with high energy and lush selections. A treat for the eyes and ears!\n\nThis concert is always exciting, as it is a premiere for each of our new ensembles and the first time on our SHS concert stage for many new students. The fall themes really help color the event into something special!\n Links \n\n *  Streaming via Vimeo \n*  DOWNLOAD: Event Program",
+      "location": "Stevenson High School | Performing Arts Center",
+      "categories": ["Fine Arts"]
     }
   ],
   "10/18/2024": [
@@ -679,11 +572,18 @@
       "start": 1729227600000,
       "end": 1729314000000,
       "name": "Yearbook Photo Re-Take Day",
-      "description": "View your School Portraits, and select your yearbook/class picture before Retake Day!\n * *The final deadline is two weeks after retake day; if you do not pick an image VIP will choose a yearbook image for you*\n* To view your student's school portraits look for an email sent to you by \"Visual Image Photography\", or go to  vipis.com \n* Retake pictures will be taken on  Thur   10/17/24 & Fri 10/18/24 (10 a.m. - 3:30 p.m. - location TBA) . This is for students who have not yet taken a Yearbook Portrait this year, or for students who have reported a need for a new picture\n* Retake photos will be added to your online image gallery about a week after photo day\n* If you have any questions, please email  support@vipis.com \n \nSeniors who took a photo on School Picture Day AND paid for a \"VIP Premier Senior Portrait Session\" -- the image you choose from your Premier Session gallery will be your yearbook selection. If you'd rather use an image taken during the fall School Picture Day instead, please contact  support@vipis.com",
+      "description": "View your School Portraits, and select your yearbook/class picture before Retake Day!\n * *The final deadline is two weeks after retake day; if you do not pick an image VIP will choose a yearbook image for you*\n* To view your student's school portraits look for an email sent to you by \"Visual Image Photography\", or go to  vipis.com \n* Retake pictures will be taken on  Thur   10/17/24 & Fri 10/18/24 (10 a.m. - 3:30 p.m. - Recital Hall) . This is for students who have not yet taken a Yearbook Portrait this year, or for students who have reported a need for a new picture\n* Retake photos will be added to your online image gallery about a week after photo day\n* If you have any questions, please email  support@vipis.com \n \nSeniors who took a photo on School Picture Day AND paid for a \"VIP Premier Senior Portrait Session\" -- the image you choose from your Premier Session gallery will be your yearbook selection. If you'd rather use an image taken during the fall School Picture Day instead, please contact  support@vipis.com",
       "location": "Stevenson High School | TBA",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
+    },
+    {
+      "allDay": false,
+      "start": 1729296000000,
+      "end": 1729296000000,
+      "name": "Family Action Network presents: Twenty-Four Seconds from Now: An Evening with Jason Reynolds",
+      "description": "Jason Reynolds is ALL THAT, full stop, and we are pinching ourselves that he will be in-person, on stage, for FAN. Such a powerful writer, and an empathetic, giving, charismatic presence. He's devoted his career to young kids and teens, and has won just about every award and honor available. His rep told us that he has memorized the first chapter of the new book, and will be doing a theatrical recitation of it on stage for FAN -- and did we mention we're giving away a boatload of books at the event?? The target audience for the book is high-school aged kids, not elementary or middle school, FYI. Bring everyone you know, and everyone they know, no joke.\n\n\n\n\n\n\n\n\n\n Links \n * Event Page:  https://www.familyactionnetwork.net/events/twenty-...",
+      "location": "Evanston Township High School Auditorium",
+      "categories": ["Parent Calendar"]
     }
   ],
   "10/19/2024": [
@@ -694,9 +594,7 @@
       "name": "Night Market",
       "description": "",
       "location": "Stevenson High School",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "10/21/2024": [
@@ -708,6 +606,15 @@
       "description": "Please visit the  Board of Education webpage  for additional information.",
       "location": "District 125 Administration Building, 2 Stevenson Drive, Lincolnshire, IL",
       "categories": []
+    },
+    {
+      "allDay": false,
+      "start": 1729555200000,
+      "end": 1729555200000,
+      "name": "Family Action Network presents: Polostan: An Evening with Neal Stephenson",
+      "description": "Yes, this is an outlier topic for FAN, but soooooo worth it! Stephenson is arguably the most prominent \"speculative fiction\" writer alive today, selling millions of books. Is his work science fiction, historical fiction, cyberpunk? His most revered books include 1992's  Snow Crash  (which coined the term \"metaverse\" and we all know what that is now, 30 years later) and 1999's  Cryptonomicon . This is a straight-up nerds and geeks program, and for those who know, they will be over the moon to meet their hero. A great night to expand your horizons and stop doom-scrolling the election season.\n\n\n\n\n\n\n\n\n\n Links \n * Event Page:  https://www.familyactionnetwork.net/events/polosta... \n\n  \n\n\n\n\n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n\n\n\n\n\n* Register via Zoom:  https://bit.ly/StephensonFANEvent \n\n  \n\n\n\n  \n\n  \n\n  \n\n  \n\n  \n\n  \n\n<a href=\"http://www.d125.org/forward.cfm?dest=https%3A%2F%2Fdocs%2Egoogle%2Ecom%2Fforms%2Fd%2Fe%2F1FAIpQLSduQSPAxzdzF20&destkey=443E9A581F00B9EC53DCCD028C2A4DB4887D8DA7EFA3EC66DDDEAC15C62C2B41",
+      "location": "The Book Stall | Winnetka, IL",
+      "categories": ["Parent Calendar"]
     }
   ],
   "10/24/2024": [
@@ -718,12 +625,19 @@
       "name": "Activity Period",
       "description": "",
       "location": null,
-      "categories": [
-        "Activity Period"
-      ]
+      "categories": ["Activity Period"]
     }
   ],
   "10/25/2024": [
+    {
+      "allDay": false,
+      "start": 1729890000000,
+      "end": 1729897200000,
+      "name": "Catalyst presents: 1st Annual Catalympics",
+      "description": "The Summer Games may be over but the Olympics have come to Stevenson!\n\nJoin Catalyst for our 1st Annual Catalympics on October 25. Student teams of 2-3 can compete in a thrilling tournament of fun-filled sports including pickleball, spikeball, and basketball in the Sports Center after school from 4-6 pm. Prizes will be awarded to the winning team for each sport. Tickets are $5 per person; teams of 2-3 can register to compete in Catalympics via GoFan using this link:  https://gofan.co/event/1720920?schoolId=IL15688 .\n\nRegistration closes Oct. 15 so register your team today!",
+      "location": "Stevenson High School | Sports Center",
+      "categories": ["Clubs and Activities"]
+    },
     {
       "allDay": false,
       "start": 1729891800000,
@@ -731,9 +645,7 @@
       "name": "Trunk or Treat",
       "description": "",
       "location": "Stevenson High School",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "10/30/2024": [
@@ -742,11 +654,9 @@
       "start": 1730331000000,
       "end": 1730331000000,
       "name": "Band Chamber Concert",
-      "description": "",
+      "description": "Students from Wind Ensemble and Wind Symphony will be performing advanced music in small chamber groups. Many of these pieces were prepared independently by students!\n Links \n\n *  Streaming via Vimeo \n* DOWNLOAD: Event Program --  coming soon!",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "11/5/2024": [
@@ -757,9 +667,7 @@
       "name": "Election Day (No School)",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "11/7/2024": [
@@ -770,9 +678,7 @@
       "name": "CCC Presents: First-Generation Night",
       "description": "For more information visit the  First-Generation Families web page.",
       "location": "Virtual Meeting via Zoom",
-      "categories": [
-        "CCC"
-      ]
+      "categories": ["CCC"]
     }
   ],
   "11/12/2024": [
@@ -783,9 +689,7 @@
       "name": "Activity Period",
       "description": "",
       "location": null,
-      "categories": [
-        "Activity Period"
-      ]
+      "categories": ["Activity Period"]
     },
     {
       "allDay": false,
@@ -794,9 +698,7 @@
       "name": "CCC Presents: College and Career Center Night for Junior Families",
       "description": "",
       "location": "Virtual Meeting via Zoom",
-      "categories": [
-        "CCC"
-      ]
+      "categories": ["CCC"]
     }
   ],
   "11/13/2024": [
@@ -807,10 +709,7 @@
       "name": "Sports Booster Meeting",
       "description": "All meetings begin at 5:30 p.m. in the Athletics Division Office (Room 5116 in PWC)",
       "location": "Stevenson High School | Athletics Division Office (Room 5116 in PWC)",
-      "categories": [
-        "Parent Calendar",
-        "Athletics"
-      ]
+      "categories": ["Parent Calendar", "Athletics"]
     }
   ],
   "11/14/2024": [
@@ -821,9 +720,7 @@
       "name": "Consortium Musical Performance",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     },
     {
       "allDay": true,
@@ -832,9 +729,7 @@
       "name": "Late Arrival",
       "description": "",
       "location": null,
-      "categories": [
-        "Late Arrival"
-      ]
+      "categories": ["Late Arrival"]
     }
   ],
   "11/15/2024": [
@@ -845,9 +740,7 @@
       "name": "2024 Fall Musical: The Prom",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "11/16/2024": [
@@ -858,9 +751,7 @@
       "name": "2024 Fall Musical: The Prom",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "11/17/2024": [
@@ -871,9 +762,7 @@
       "name": "2024 Fall Musical: The Prom",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "11/18/2024": [
@@ -895,9 +784,7 @@
       "name": "Thanksgiving Break (No School)",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "11/28/2024": [
@@ -908,9 +795,7 @@
       "name": "Thanksgiving Break (No School)",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "11/29/2024": [
@@ -921,9 +806,7 @@
       "name": "Thanksgiving Break (No School)",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "12/3/2024": [
@@ -934,9 +817,7 @@
       "name": "Give-A-Thon 2024 Collection Day",
       "description": "",
       "location": null,
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "12/4/2024": [
@@ -947,9 +828,7 @@
       "name": "Give-A-Thon 2024 Delivery Day",
       "description": "",
       "location": null,
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     },
     {
       "allDay": false,
@@ -958,9 +837,7 @@
       "name": "Winter Guitar Concert",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "12/5/2024": [
@@ -971,9 +848,7 @@
       "name": "Activity Period",
       "description": "",
       "location": null,
-      "categories": [
-        "Activity Period"
-      ]
+      "categories": ["Activity Period"]
     }
   ],
   "12/6/2024": [
@@ -984,9 +859,7 @@
       "name": "2024 Winter Dance Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     },
     {
       "allDay": false,
@@ -995,9 +868,7 @@
       "name": "Music Production Showcase",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "12/7/2024": [
@@ -1008,9 +879,7 @@
       "name": "2024 Winter Dance Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "12/9/2024": [
@@ -1021,9 +890,7 @@
       "name": "December Band Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "12/10/2024": [
@@ -1034,9 +901,7 @@
       "name": "Winter ArtFest 2024",
       "description": "",
       "location": "Stevenson High School | Room 2104 & Upper Forum",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     },
     {
       "allDay": false,
@@ -1045,9 +910,7 @@
       "name": "December Band Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "12/11/2024": [
@@ -1058,9 +921,7 @@
       "name": "Winter ArtFest 2024",
       "description": "",
       "location": "Stevenson High School | Room 2104 & Upper Forum",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "12/12/2024": [
@@ -1071,9 +932,7 @@
       "name": "Late Arrival",
       "description": "",
       "location": null,
-      "categories": [
-        "Late Arrival"
-      ]
+      "categories": ["Late Arrival"]
     },
     {
       "allDay": false,
@@ -1082,9 +941,7 @@
       "name": "December Choir Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "12/16/2024": [
@@ -1106,9 +963,16 @@
       "name": "December Orchestra Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
+    },
+    {
+      "allDay": false,
+      "start": 1734472800000,
+      "end": 1734483600000,
+      "name": "CCC Presents: FAFSA/IL Alternative Aid Form Workshop",
+      "description": "More information coming soon!",
+      "location": "Stevenson High School | Patriot Wellness Center",
+      "categories": ["CCC"]
     }
   ],
   "12/18/2024": [
@@ -1119,9 +983,7 @@
       "name": "Adv. Acting & Acting 3 Showcase",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "12/19/2024": [
@@ -1132,9 +994,7 @@
       "name": "The Final Experience (Early Dismissal)",
       "description": "For schedule info, please visit the  Final Experience  web page.",
       "location": null,
-      "categories": [
-        "Early Dismissal"
-      ]
+      "categories": ["Early Dismissal"]
     }
   ],
   "12/20/2024": [
@@ -1145,9 +1005,7 @@
       "name": "The Final Experience (Early Dismissal)",
       "description": "For schedule info, please visit the  Final Experience  web page.",
       "location": null,
-      "categories": [
-        "Early Dismissal"
-      ]
+      "categories": ["Early Dismissal"]
     }
   ],
   "12/23/2024": [
@@ -1158,9 +1016,7 @@
       "name": "Winter Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "12/24/2024": [
@@ -1171,9 +1027,7 @@
       "name": "Winter Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "12/25/2024": [
@@ -1184,9 +1038,7 @@
       "name": "Winter Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "12/26/2024": [
@@ -1197,9 +1049,7 @@
       "name": "Winter Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "12/27/2024": [
@@ -1210,9 +1060,7 @@
       "name": "Winter Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "12/30/2024": [
@@ -1223,9 +1071,7 @@
       "name": "Winter Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "12/31/2024": [
@@ -1236,9 +1082,7 @@
       "name": "Winter Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "1/1/2025": [
@@ -1249,9 +1093,7 @@
       "name": "Winter Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "1/2/2025": [
@@ -1262,9 +1104,7 @@
       "name": "Winter Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "1/3/2025": [
@@ -1275,9 +1115,7 @@
       "name": "Winter Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "1/6/2025": [
@@ -1288,9 +1126,7 @@
       "name": "Teacher Institute Day (Non-Attendance)",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "1/7/2025": [
@@ -1312,21 +1148,16 @@
       "name": "Sports Booster Meeting",
       "description": "All meetings begin at 5:30 p.m. in the Athletics Division Office (Room 5116 in PWC)",
       "location": "Stevenson High School | Athletics Division Office (Room 5116 in PWC)",
-      "categories": [
-        "Parent Calendar",
-        "Athletics"
-      ]
+      "categories": ["Parent Calendar", "Athletics"]
     },
     {
       "allDay": false,
       "start": 1736384400000,
       "end": 1736384400000,
-      "name": "Incoming Freshman Parent Nights",
+      "name": "Incoming Freshman Family Nights",
       "description": "*  January 8  (last names A-G)\n*  January 9  (last names H-O)\n*  January 14  (last names P-Z)\n \n\n\nFor more information, visit the  Incoming Freshmen: Class of 2028 web page .",
       "location": "Stevenson High School | TBA",
-      "categories": [
-        "Parent Calendar"
-      ]
+      "categories": ["Parent Calendar"]
     }
   ],
   "1/9/2025": [
@@ -1334,12 +1165,10 @@
       "allDay": false,
       "start": 1736470800000,
       "end": 1736470800000,
-      "name": "Incoming Freshman Parent Nights",
+      "name": "Incoming Freshman Family Nights",
       "description": "*  January 8  (last names A-G)\n*  January 9  (last names H-O)\n*  January 14  (last names P-Z)\n \n\n\nFor more information, visit the  Incoming Freshmen: Class of 2028 web page .",
       "location": "Stevenson High School | TBA",
-      "categories": [
-        "Parent Calendar"
-      ]
+      "categories": ["Parent Calendar"]
     }
   ],
   "1/13/2025": [
@@ -1350,9 +1179,7 @@
       "name": "Consortium Jazz and Band Festival",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     },
     {
       "allDay": false,
@@ -1372,20 +1199,16 @@
       "name": "Activity Period",
       "description": "",
       "location": null,
-      "categories": [
-        "Activity Period"
-      ]
+      "categories": ["Activity Period"]
     },
     {
       "allDay": false,
       "start": 1736902800000,
       "end": 1736902800000,
-      "name": "Incoming Freshman Parent Nights",
+      "name": "Incoming Freshman Family Nights",
       "description": "*  January 8  (last names A-G)\n*  January 9  (last names H-O)\n*  January 14  (last names P-Z)\n \n\n\nFor more information, visit the  Incoming Freshmen: Class of 2028 web page .",
       "location": "Stevenson High School | TBA",
-      "categories": [
-        "Parent Calendar"
-      ]
+      "categories": ["Parent Calendar"]
     }
   ],
   "1/15/2025": [
@@ -1396,9 +1219,7 @@
       "name": "Consortium Orchestra Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "1/16/2025": [
@@ -1409,9 +1230,7 @@
       "name": "Late Arrival",
       "description": "",
       "location": null,
-      "categories": [
-        "Late Arrival"
-      ]
+      "categories": ["Late Arrival"]
     },
     {
       "allDay": false,
@@ -1420,9 +1239,7 @@
       "name": "Consortium Choir Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "1/17/2025": [
@@ -1433,9 +1250,7 @@
       "name": "SAGA Dance",
       "description": "",
       "location": "Stevenson High School | Lower East Glass Commons",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "1/20/2025": [
@@ -1446,9 +1261,29 @@
       "name": "Martin Luther. King, Jr. Day (No School)",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
+    }
+  ],
+  "1/21/2025": [
+    {
+      "allDay": false,
+      "start": 1737507600000,
+      "end": 1737507600000,
+      "name": "Incoming Freshman Course Selection Evenings",
+      "description": "More information coming soon!",
+      "location": "Stevenson High School | TBA",
+      "categories": ["Parent Calendar"]
+    }
+  ],
+  "1/22/2025": [
+    {
+      "allDay": false,
+      "start": 1737594000000,
+      "end": 1737594000000,
+      "name": "Incoming Freshman Course Selection Evenings",
+      "description": "More information coming soon!",
+      "location": "Stevenson High School | TBA",
+      "categories": ["Parent Calendar"]
     }
   ],
   "1/25/2025": [
@@ -1459,9 +1294,7 @@
       "name": "World's Fair 2025",
       "description": "",
       "location": "Stevenson High School",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "1/26/2025": [
@@ -1472,9 +1305,7 @@
       "name": "World's Fair 2025",
       "description": "",
       "location": "Stevenson High School",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "1/29/2025": [
@@ -1485,9 +1316,7 @@
       "name": "Lunar New Year Celebration",
       "description": ".",
       "location": "Stevenson High School | TBA",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "1/31/2025": [
@@ -1498,9 +1327,7 @@
       "name": "KIVA Club presents S-Factor",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "2/4/2025": [
@@ -1511,9 +1338,7 @@
       "name": "CCC Presents: First-Generation Night",
       "description": "For more information visit the  First-Generation Families web page.",
       "location": "Virtual Meeting via Zoom",
-      "categories": [
-        "CCC"
-      ]
+      "categories": ["CCC"]
     }
   ],
   "2/6/2025": [
@@ -1524,9 +1349,7 @@
       "name": "2024 Frosh/Soph Play: The Lion, The Witch & The Wardrobe",
       "description": "",
       "location": "Stevenson High School | TBA",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "2/7/2025": [
@@ -1537,9 +1360,7 @@
       "name": "2024 Frosh/Soph Play: The Lion, The Witch & The Wardrobe",
       "description": "",
       "location": "Stevenson High School | TBA",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "2/8/2025": [
@@ -1550,9 +1371,7 @@
       "name": "2024 Frosh/Soph Play: The Lion, The Witch & The Wardrobe",
       "description": "",
       "location": "Stevenson High School | TBA",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "2/10/2025": [
@@ -1574,10 +1393,7 @@
       "name": "Sports Booster Meeting",
       "description": "All meetings begin at 5:30 p.m. in the Athletics Division Office (Room 5116 in PWC)",
       "location": "Stevenson High School | Athletics Division Office (Room 5116 in PWC)",
-      "categories": [
-        "Parent Calendar",
-        "Athletics"
-      ]
+      "categories": ["Parent Calendar", "Athletics"]
     },
     {
       "allDay": false,
@@ -1586,9 +1402,7 @@
       "name": "Chamber Orchestra Concert",
       "description": "",
       "location": "Stevenson High School | Recital Hall (Room 4100)",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "2/13/2025": [
@@ -1599,9 +1413,7 @@
       "name": "Late Arrival",
       "description": "",
       "location": null,
-      "categories": [
-        "Late Arrival"
-      ]
+      "categories": ["Late Arrival"]
     }
   ],
   "2/14/2025": [
@@ -1612,9 +1424,7 @@
       "name": "CCC Presents: Summer Job Fair",
       "description": "",
       "location": "Stevenson High School | Rooms 5120, 5124 & 5128 (PWC)",
-      "categories": [
-        "CCC"
-      ]
+      "categories": ["CCC"]
     },
     {
       "allDay": true,
@@ -1623,9 +1433,7 @@
       "name": "NHS Spring 2025 Blood Drive",
       "description": "",
       "location": "Stevenson High School | Wrestling Room",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "2/17/2025": [
@@ -1636,9 +1444,7 @@
       "name": "President's Day (No School)",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "2/18/2025": [
@@ -1649,9 +1455,7 @@
       "name": "Winterfest Week 2025",
       "description": "",
       "location": null,
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     },
     {
       "allDay": false,
@@ -1660,9 +1464,7 @@
       "name": "Chamber Guitar Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "2/19/2025": [
@@ -1673,9 +1475,7 @@
       "name": "Winterfest Week 2025",
       "description": "",
       "location": null,
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     },
     {
       "allDay": false,
@@ -1684,9 +1484,7 @@
       "name": "Chamber Guitar Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "2/20/2025": [
@@ -1697,9 +1495,7 @@
       "name": "Winterfest Week 2025",
       "description": "",
       "location": null,
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "2/21/2025": [
@@ -1710,9 +1506,7 @@
       "name": "PM Assembly",
       "description": "",
       "location": null,
-      "categories": [
-        "Early Dismissal"
-      ]
+      "categories": ["Early Dismissal"]
     },
     {
       "allDay": true,
@@ -1721,9 +1515,7 @@
       "name": "Winterfest Week 2025",
       "description": "",
       "location": null,
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     },
     {
       "allDay": false,
@@ -1732,9 +1524,7 @@
       "name": "Baroque Concert",
       "description": "",
       "location": "Stevenson High School | Recital Hall (Room 4100)",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "2/22/2025": [
@@ -1745,9 +1535,7 @@
       "name": "Winterfest Dance 2025",
       "description": "",
       "location": "Stevenson High School",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "2/25/2025": [
@@ -1758,9 +1546,7 @@
       "name": "Activity Period",
       "description": "",
       "location": null,
-      "categories": [
-        "Activity Period"
-      ]
+      "categories": ["Activity Period"]
     }
   ],
   "2/26/2025": [
@@ -1771,9 +1557,7 @@
       "name": "Winter Choir Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "2/28/2025": [
@@ -1784,9 +1568,7 @@
       "name": "Institute Day (Non-Attendance)",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "3/3/2025": [
@@ -1797,9 +1579,7 @@
       "name": "Casimir Pulaski Day (No School)",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "3/4/2025": [
@@ -1810,9 +1590,7 @@
       "name": "Winter Band Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "3/5/2025": [
@@ -1823,9 +1601,7 @@
       "name": "CCC Presents: Career Ready Trade Expo",
       "description": "",
       "location": "Stevenson High School | Wood Commons",
-      "categories": [
-        "CCC"
-      ]
+      "categories": ["CCC"]
     },
     {
       "allDay": false,
@@ -1834,9 +1610,7 @@
       "name": "Winter Band Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "3/6/2025": [
@@ -1847,34 +1621,10 @@
       "name": "Late Arrival",
       "description": "",
       "location": null,
-      "categories": [
-        "Late Arrival"
-      ]
-    },
-    {
-      "allDay": true,
-      "start": 1741240800000,
-      "end": 1741327200000,
-      "name": "Testing Day (Illinois Science Assessment)",
-      "description": "For more information, visit the  PSAT - SAT - ACT Testing web page .",
-      "location": "Stevenson High School",
-      "categories": [
-        "Testing Day"
-      ]
+      "categories": ["Late Arrival"]
     }
   ],
   "3/7/2025": [
-    {
-      "allDay": true,
-      "start": 1741327200000,
-      "end": 1741413600000,
-      "name": "Testing Day (Illinois Science Assessment)",
-      "description": "For more information, visit the  PSAT - SAT - ACT Testing web page .",
-      "location": "Stevenson High School",
-      "categories": [
-        "Testing Day"
-      ]
-    },
     {
       "allDay": false,
       "start": 1741395600000,
@@ -1882,9 +1632,7 @@
       "name": "2025 Winter Play: Spelling Bee",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "3/8/2025": [
@@ -1895,9 +1643,7 @@
       "name": "2025 Winter Play: Spelling Bee",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     },
     {
       "allDay": false,
@@ -1906,9 +1652,7 @@
       "name": "2025 Winter Play: Spelling Bee",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "3/9/2025": [
@@ -1919,9 +1663,7 @@
       "name": "2025 Winter Play: Spelling Bee",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "3/12/2025": [
@@ -1932,10 +1674,7 @@
       "name": "Sports Booster Meeting",
       "description": "All meetings begin at 5:30 p.m. in the Athletics Division Office (Room 5116 in PWC)",
       "location": "Stevenson High School | Athletics Division Office (Room 5116 in PWC)",
-      "categories": [
-        "Parent Calendar",
-        "Athletics"
-      ]
+      "categories": ["Parent Calendar", "Athletics"]
     },
     {
       "allDay": false,
@@ -1944,9 +1683,7 @@
       "name": "CCC Presents: Sophomore Family College and Career Night",
       "description": "",
       "location": "Stevenson High School | TBA",
-      "categories": [
-        "CCC"
-      ]
+      "categories": ["CCC"]
     }
   ],
   "3/17/2025": [
@@ -1968,9 +1705,7 @@
       "name": "Activity Period (Student Government)",
       "description": "",
       "location": null,
-      "categories": [
-        "Activity Period"
-      ]
+      "categories": ["Activity Period"]
     },
     {
       "allDay": false,
@@ -1979,9 +1714,7 @@
       "name": "Spring Orchestra Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     },
     {
       "allDay": false,
@@ -1990,9 +1723,7 @@
       "name": "Spring Orchestra Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "3/19/2025": [
@@ -2003,9 +1734,7 @@
       "name": "Co-Curricular Fair",
       "description": "",
       "location": null,
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "3/24/2025": [
@@ -2016,9 +1745,7 @@
       "name": "Spring Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "3/25/2025": [
@@ -2029,9 +1756,7 @@
       "name": "Spring Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "3/26/2025": [
@@ -2042,9 +1767,7 @@
       "name": "Spring Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "3/27/2025": [
@@ -2055,9 +1778,7 @@
       "name": "Spring Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "3/28/2025": [
@@ -2068,9 +1789,7 @@
       "name": "Spring Break",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "4/2/2025": [
@@ -2081,9 +1800,7 @@
       "name": "CCC Presents: Freshmen Family Night",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "CCC"
-      ]
+      "categories": ["CCC"]
     }
   ],
   "4/4/2025": [
@@ -2094,9 +1811,7 @@
       "name": "Evening of Jazz Concert",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "4/8/2025": [
@@ -2107,9 +1822,7 @@
       "name": "Activity Period",
       "description": "",
       "location": null,
-      "categories": [
-        "Activity Period"
-      ]
+      "categories": ["Activity Period"]
     },
     {
       "allDay": true,
@@ -2118,9 +1831,7 @@
       "name": "The AP and Advanced Art Show",
       "description": "",
       "location": "Stevenson High School | Room 2104 & Upper Forum",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "4/9/2025": [
@@ -2131,9 +1842,25 @@
       "name": "CCC Presents: First-Generation Night",
       "description": "For more information visit the  First-Generation Families web page.",
       "location": "Virtual Meeting via Zoom",
-      "categories": [
-        "CCC"
-      ]
+      "categories": ["CCC"]
+    },
+    {
+      "allDay": true,
+      "start": 1744174800000,
+      "end": 1744261200000,
+      "name": "Testing Day (Digital PreACT 9)",
+      "description": "",
+      "location": null,
+      "categories": ["Testing Day"]
+    },
+    {
+      "allDay": true,
+      "start": 1744174800000,
+      "end": 1744261200000,
+      "name": "Testing Day (Digital School-Day ACT with Writing)",
+      "description": "",
+      "location": null,
+      "categories": ["Testing Day"]
     },
     {
       "allDay": true,
@@ -2142,9 +1869,7 @@
       "name": "The AP and Advanced Art Show",
       "description": "",
       "location": "Stevenson High School | Room 2104 & Upper Forum",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     },
     {
       "allDay": false,
@@ -2153,10 +1878,7 @@
       "name": "Sports Booster Meeting",
       "description": "All meetings begin at 5:30 p.m. in the Athletics Division Office (Room 5116 in PWC)",
       "location": "Stevenson High School | Athletics Division Office (Room 5116 in PWC)",
-      "categories": [
-        "Parent Calendar",
-        "Athletics"
-      ]
+      "categories": ["Parent Calendar", "Athletics"]
     }
   ],
   "4/10/2025": [
@@ -2167,9 +1889,7 @@
       "name": "Late Arrival",
       "description": "",
       "location": null,
-      "categories": [
-        "Late Arrival"
-      ]
+      "categories": ["Late Arrival"]
     }
   ],
   "4/14/2025": [
@@ -2180,9 +1900,7 @@
       "name": "Jazz Combo Concert",
       "description": "",
       "location": "Stevenson High School | Little Theatre (Room 4200)",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "4/15/2025": [
@@ -2193,9 +1911,7 @@
       "name": "Small Ensemble Concert",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "4/18/2025": [
@@ -2206,9 +1922,7 @@
       "name": "Non-Attendance Day",
       "description": "",
       "location": null,
-      "categories": [
-        "Non-Attendance Days"
-      ]
+      "categories": ["Non-Attendance Days"]
     }
   ],
   "4/21/2025": [
@@ -2224,15 +1938,22 @@
   ],
   "4/22/2025": [
     {
+      "allDay": true,
+      "start": 1745298000000,
+      "end": 1745384400000,
+      "name": "Testing Day (Digital PreACT)",
+      "description": "",
+      "location": null,
+      "categories": ["Testing Day"]
+    },
+    {
       "allDay": false,
       "start": 1745366400000,
       "end": 1745366400000,
       "name": "Percussion Ensemble Spring Concert",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "4/24/2025": [
@@ -2243,9 +1964,7 @@
       "name": "Baroque Concert",
       "description": "",
       "location": "Stevenson High School | Recital Hall (Room 4100)",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "4/26/2025": [
@@ -2256,9 +1975,7 @@
       "name": "Prom 2025",
       "description": "",
       "location": null,
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "4/29/2025": [
@@ -2269,9 +1986,7 @@
       "name": "Activity Period",
       "description": "",
       "location": null,
-      "categories": [
-        "Activity Period"
-      ]
+      "categories": ["Activity Period"]
     }
   ],
   "5/1/2025": [
@@ -2282,9 +1997,7 @@
       "name": "Senior Sunrise",
       "description": "",
       "location": "Stevenson High School | The Stadium",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "5/2/2025": [
@@ -2295,9 +2008,7 @@
       "name": "2025 Spring Dance Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     },
     {
       "allDay": false,
@@ -2306,9 +2017,7 @@
       "name": "The One Acts",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "5/3/2025": [
@@ -2319,9 +2028,7 @@
       "name": "2025 Spring Dance Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     },
     {
       "allDay": false,
@@ -2330,9 +2037,7 @@
       "name": "The One Acts",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "5/5/2025": [
@@ -2343,9 +2048,7 @@
       "name": "Testing Day (Advanced Placement Exams)",
       "description": "For more information, visit the  Advanced Placement web page .",
       "location": "Stevenson High School",
-      "categories": [
-        "Testing Day"
-      ]
+      "categories": ["Testing Day"]
     }
   ],
   "5/6/2025": [
@@ -2356,9 +2059,7 @@
       "name": "Testing Day (Advanced Placement Exams)",
       "description": "For more information, visit the  Advanced Placement web page .",
       "location": "Stevenson High School",
-      "categories": [
-        "Testing Day"
-      ]
+      "categories": ["Testing Day"]
     },
     {
       "allDay": false,
@@ -2367,9 +2068,7 @@
       "name": "Spring Choir Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "5/7/2025": [
@@ -2380,9 +2079,7 @@
       "name": "Testing Day (Advanced Placement Exams)",
       "description": "For more information, visit the  Advanced Placement web page .",
       "location": "Stevenson High School",
-      "categories": [
-        "Testing Day"
-      ]
+      "categories": ["Testing Day"]
     }
   ],
   "5/8/2025": [
@@ -2393,9 +2090,7 @@
       "name": "Testing Day (Advanced Placement Exams)",
       "description": "For more information, visit the  Advanced Placement web page .",
       "location": "Stevenson High School",
-      "categories": [
-        "Testing Day"
-      ]
+      "categories": ["Testing Day"]
     }
   ],
   "5/9/2025": [
@@ -2406,9 +2101,7 @@
       "name": "Testing Day (Advanced Placement Exams)",
       "description": "For more information, visit the  Advanced Placement web page .",
       "location": "Stevenson High School",
-      "categories": [
-        "Testing Day"
-      ]
+      "categories": ["Testing Day"]
     },
     {
       "allDay": false,
@@ -2417,9 +2110,7 @@
       "name": "Music Production Showcase",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "5/12/2025": [
@@ -2430,9 +2121,7 @@
       "name": "Testing Day (Advanced Placement Exams)",
       "description": "For more information, visit the  Advanced Placement web page .",
       "location": "Stevenson High School",
-      "categories": [
-        "Testing Day"
-      ]
+      "categories": ["Testing Day"]
     }
   ],
   "5/13/2025": [
@@ -2443,9 +2132,7 @@
       "name": "Testing Day (Advanced Placement Exams)",
       "description": "For more information, visit the  Advanced Placement web page .",
       "location": "Stevenson High School",
-      "categories": [
-        "Testing Day"
-      ]
+      "categories": ["Testing Day"]
     },
     {
       "allDay": false,
@@ -2454,9 +2141,7 @@
       "name": "Spring Band Concert",
       "description": "",
       "location": "Stevenson High School | Performing Arts Center",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "5/14/2025": [
@@ -2467,9 +2152,7 @@
       "name": "Testing Day (Advanced Placement Exams)",
       "description": "For more information, visit the  Advanced Placement web page .",
       "location": "Stevenson High School",
-      "categories": [
-        "Testing Day"
-      ]
+      "categories": ["Testing Day"]
     },
     {
       "allDay": false,
@@ -2478,10 +2161,7 @@
       "name": "Sports Booster Meeting",
       "description": "All meetings begin at 5:30 p.m. in the Athletics Division Office (Room 5116 in PWC)",
       "location": "Stevenson High School | Athletics Division Office (Room 5116 in PWC)",
-      "categories": [
-        "Parent Calendar",
-        "Athletics"
-      ]
+      "categories": ["Parent Calendar", "Athletics"]
     },
     {
       "allDay": false,
@@ -2490,9 +2170,7 @@
       "name": "Spring Guitar Concert",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "5/15/2025": [
@@ -2503,9 +2181,7 @@
       "name": "Testing Day (Advanced Placement Exams)",
       "description": "For more information, visit the  Advanced Placement web page .",
       "location": "Stevenson High School",
-      "categories": [
-        "Testing Day"
-      ]
+      "categories": ["Testing Day"]
     },
     {
       "allDay": false,
@@ -2514,9 +2190,7 @@
       "name": "Orchestra POPS Concert",
       "description": "",
       "location": "Stevenson High School | Patriot Wellness Center (Turf)",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "5/16/2025": [
@@ -2527,9 +2201,7 @@
       "name": "PM Assembly",
       "description": "",
       "location": null,
-      "categories": [
-        "Early Dismissal"
-      ]
+      "categories": ["Early Dismissal"]
     },
     {
       "allDay": true,
@@ -2538,9 +2210,7 @@
       "name": "Testing Day (Advanced Placement Exams)",
       "description": "For more information, visit the  Advanced Placement web page .",
       "location": "Stevenson High School",
-      "categories": [
-        "Testing Day"
-      ]
+      "categories": ["Testing Day"]
     },
     {
       "allDay": false,
@@ -2549,9 +2219,7 @@
       "name": "Spring Fling 2025",
       "description": "",
       "location": "Stevenson High School | The Stadium",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
     }
   ],
   "5/19/2025": [
@@ -2562,9 +2230,7 @@
       "name": "Advanced Acting Showcase",
       "description": "",
       "location": "Stevenson High School | West Auditorium",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     },
     {
       "allDay": false,
@@ -2584,9 +2250,7 @@
       "name": "Consortium Art Festival & Reception",
       "description": "",
       "location": "Stevenson High School | Field House",
-      "categories": [
-        "Fine Arts"
-      ]
+      "categories": ["Fine Arts"]
     }
   ],
   "5/22/2025": [
@@ -2597,9 +2261,7 @@
       "name": "Final Experience - Early Dismissal",
       "description": "For more information, please visit the  Final Experience web page   .",
       "location": null,
-      "categories": [
-        "Early Dismissal"
-      ]
+      "categories": ["Early Dismissal"]
     }
   ],
   "5/23/2025": [
@@ -2610,9 +2272,7 @@
       "name": "Final Experience - Early Dismissal",
       "description": "For more information, please visit the  Final Experience web page   .",
       "location": null,
-      "categories": [
-        "Early Dismissal"
-      ]
+      "categories": ["Early Dismissal"]
     },
     {
       "allDay": false,
@@ -2621,9 +2281,52 @@
       "name": "Commencement Ceremony: Class of 2025",
       "description": "",
       "location": "NOW Arena | Hoffman Estates, IL",
-      "categories": [
-        "Clubs and Activities"
-      ]
+      "categories": ["Clubs and Activities"]
+    }
+  ],
+  "6/3/2025": [
+    {
+      "allDay": false,
+      "start": 1748954700000,
+      "end": 1748973000000,
+      "name": "Summer School - Session 1 Start",
+      "description": "For more information, visit the  Summer School webpage.",
+      "location": null,
+      "categories": ["Summer School"]
+    }
+  ],
+  "6/26/2025": [
+    {
+      "allDay": false,
+      "start": 1750941900000,
+      "end": 1750960200000,
+      "name": "Summer School - Session 1 End",
+      "description": "For more information, visit the  Summer School webpage.",
+      "location": null,
+      "categories": ["Summer School"]
+    }
+  ],
+  "6/30/2025": [
+    {
+      "allDay": false,
+      "start": 1751287500000,
+      "end": 1751305800000,
+      "name": "Summer School - Session 2 Start",
+      "description": "For more information, visit the  Summer School webpage.",
+      "location": null,
+      "categories": ["Summer School"]
+    }
+  ],
+  "7/24/2025": [
+    {
+      "allDay": false,
+      "start": 1753361100000,
+      "end": 1753379400000,
+      "name": "Summer School - Session 2 End",
+      "description": "For more information, visit the  Summer School webpage.",
+      "location": null,
+      "categories": ["Summer School"]
     }
   ]
 }
+

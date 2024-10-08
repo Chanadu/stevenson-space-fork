@@ -3,7 +3,7 @@ const path = require("path");
 const oldLunch = require("../src/data/lunch.json");
 
 // calculates the number of days since epoch time
-const toDays = date =>
+const toDays = (date) =>
   parseInt((date.getTime() / 1000 / 60 - date.getTimezoneOffset()) / 60 / 24);
 
 main();
@@ -15,18 +15,28 @@ function csvToArray(str, delimiter = ",") {
   const rows = str.slice(str.indexOf("\n") + 1).split("\n");
 
   const replaceAllCommas = (str) => {
-    let copy = str; 
-    while(copy.includes('%COMMA%')){
-      copy = copy.replace("%COMMA%", ',');;
+    let copy = str;
+    while (copy.includes("%COMMA%")) {
+      copy = copy.replace("%COMMA%", ",");
     }
-    return copy
-  }
+    return copy;
+  };
 
   const arr = rows.map(function (row) {
     const values = row.split(delimiter);
     const el = headers.reduce(function (object, header, index) {
-      if(['Comfort Food', 'Mindful', 'Sides', 'International Station', 'Soup', 'Paninis', 'Day Number'].includes(header)){
-        object[header] = replaceAllCommas(values[index]).split(',');
+      if (
+        [
+          "Comfort Food",
+          "Mindful", 
+          "Sides",
+          "International Station",
+          "Soup",
+          "Paninis",
+          "Day Number",
+        ].includes(header)
+      ) {
+        object[header] = replaceAllCommas(values[index]).split(",");
       }
       return object;
     }, {});
@@ -37,18 +47,16 @@ function csvToArray(str, delimiter = ",") {
 }
 
 async function parseLunchTable() {
-  var data = fs.readFileSync(__dirname + '/lunchData.csv', 'utf8');
+  var data = fs.readFileSync(__dirname + "/lunchData.csv", "utf8");
   // rows = data.split("\n");
 
   const lunchObject = {};
 
-  
   csvToArray(data).forEach((menu, index) => {
-    lunchObject[menu['Day Number'][0]] = menu;
-    delete menu['Day Number']
-  })
-  return { lunch: lunchObject, numLunches: data.split("\n").length -1 }; // subtract the 1 from the length because it's the header
-
+    lunchObject[menu["Day Number"][0]] = menu;
+    delete menu["Day Number"];
+  });
+  return { lunch: lunchObject, numLunches: data.split("\n").length - 1 }; // subtract the 1 from the length because it's the header
 }
 
 async function main() {
@@ -67,13 +75,13 @@ function saveLunch(lunch) {
   fs.writeFile(
     path.join(__dirname, "..", "src", "data", "lunch.json"),
     JSON.stringify(lunch, null, 2),
-    err => {
+    (err) => {
       if (err) {
         exitWithError(`Error saving file:\n${err}`);
       } else {
         console.log("Data saved to lunch.json");
       }
-    }
+    },
   );
 }
 
@@ -100,8 +108,8 @@ function printMissingLunches(lunch, numLunches) {
               weekday: "long",
               month: "long",
               day: "numeric",
-              year: "numeric"
-            })
+              year: "numeric",
+            }),
           );
         }
       }
@@ -111,17 +119,15 @@ function printMissingLunches(lunch, numLunches) {
 
     console.log(
       "\nThe website currently does not contain information for the following days on the " +
-      `28-day cycle: \n - ${missing.join("\n - ")}`
+        `28-day cycle: \n - ${missing.join("\n - ")}`,
     );
-    console.log(
-      "\nPlease manually add lunch information for those days when possible."
-    );
+    console.log("\nPlease manually add lunch information for those days when possible.");
     console.log(
       "Possible dates that could be used to provide the missing information are: " +
-      `\n - ${exampleDates.join("\n - ")}`
+        `\n - ${exampleDates.join("\n - ")}`,
     );
     console.log(
-      "or any other date that is obtained by adding a multiple of 28 days to the ones above.\n"
+      "or any other date that is obtained by adding a multiple of 28 days to the ones above.\n",
     );
   }
 }

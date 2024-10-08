@@ -1,95 +1,55 @@
 <template>
-  <div
-    class="header"
-    :class="{ 'full-screen': fullScreenMode, 'spy': theme.name.toLowerCase() == 'spy', 'halloween': theme.name.toLowerCase() == 'halloween', 'minecraft': theme.name.toLowerCase() == 'minecraft', 'mars': theme.name.toLowerCase() == 'mars', 'cosmic-reef': theme.name.toLowerCase() == 'cosmic reef', 'cosmic-tarantula': theme.name.toLowerCase() == 'cosmic tarantula', 'summer': theme.name.toLowerCase() == 'summer', 'eclipse': theme.name.toLowerCase() == 'eclipse', 'zen': theme.name.toLowerCase() == 'zen' || theme.name.toLowerCase() == 'not windows xp'}"
-    :style="colors"
-  >
-    <dropdown
-      v-show="scheduleModes.length > 1"
-      class="schedule-select"
-      :options="scheduleModes"
-      :modelValue="scheduleModes.indexOf(bell.mode)"
-      @update:modelValue="setScheduleMode(scheduleModes[$event])"
-    />
+  <div class="header"
+    :class="{ 'full-screen': fullScreenMode, 'spy': theme.name.toLowerCase() == 'spy', 'halloween':
+      theme.name.toLowerCase() == 'halloween', 'minecraft': theme.name.toLowerCase() == 'minecraft',
+      'mars': theme.name.toLowerCase() == 'mars', 'cosmic-reef': theme.name.toLowerCase() == 'cosmic reef',
+      'cosmic-tarantula': theme.name.toLowerCase() == 'cosmic tarantula', 'summer':
+      theme.name.toLowerCase() == 'summer', 'eclipse': theme.name.toLowerCase() == 'eclipse', 'zen':
+      theme.name.toLowerCase() == 'zen' || theme.name.toLowerCase() == 'not windows xp',
+      'coding-environment': theme.name.toLowerCase() == 'coding environment' }"
+    :style="colors">
+    <dropdown v-show="scheduleModes.length > 1" class="schedule-select" :options="scheduleModes"
+      :modelValue="scheduleModes.indexOf(bell.mode)" @update:modelValue="setScheduleMode(scheduleModes[$event])" />
 
-    <div
-      class="main"
-      :class="{ 'extra-padding': scheduleModes.length > 1, 'winterfest': theme.name.toLowerCase() == 'into the woods'}"
-    >
-      <video v-if="theme.name.toLowerCase() === 'stevenson space'" autoplay loop muted playsinline :class="'starry-night' + (fullScreenMode ? ' starry-night-full' : '')">
-        <source
-          :src="starryNight"
-          type="video/mp4"
-        />
+    <div class="main"
+      :class="{ 'extra-padding': scheduleModes.length > 1, 'winterfest': theme.name.toLowerCase() == 'into the woods' }">
+      <video v-if="theme.name.toLowerCase() === 'stevenson space'" autoplay loop muted playsinline
+        :class="'starry-night' + (fullScreenMode ? ' starry-night-full' : '')">
+        <source :src="starryNight" type="video/mp4" />
       </video>
       <div @click="previousDay" class="switch-day">
-        <font-awesome-icon
-          :icon="icons.faChevronLeft"
-          class="arrow-icon"
-        />
+        <font-awesome-icon :icon="icons.faChevronLeft" class="arrow-icon" />
       </div>
 
       <div>
-        <countdown-circle
-          :in-school="inSchool"
-          :countdown="countdownString"
-          :range="bell.getRange()"
-          :next-day="nextDayString"
-          :schedule-type="bell.type"
-          :full-screen-mode="fullScreenMode"
-        />
+        <countdown-circle :in-school="inSchool" :countdown="countdownString" :range="bell.getRange()"
+          :next-day="nextDayString" :schedule-type="bell.type" :full-screen-mode="fullScreenMode" />
         <div class="date">
           {{ formatDate(date) }}
         </div>
       </div>
 
       <div @click="nextDay" class="switch-day">
-        <font-awesome-icon
-          :icon="icons.faChevronRight"
-          class="arrow-icon"
-        />
+        <font-awesome-icon :icon="icons.faChevronRight" class="arrow-icon" />
       </div>
 
       <div @click="toggleColor" class="icon remove-color">
-        <font-awesome-icon
-          :icon="colored ? icons.faDropletSlash : icons.faDroplet"
-          fixed-width
-        />
+        <font-awesome-icon :icon="colored ? icons.faDropletSlash : icons.faDroplet" fixed-width />
       </div>
-      <div
-        v-show="mode === 'current'"
-        @click="toggleFullScreen"
-        class="icon full-screen-mode"
-      >
-        <font-awesome-icon
-          :icon="fullScreenMode ? icons.faCompress : icons.faExpand"
-          fixed-width
-        />
+      <div v-show="mode === 'current'" @click="toggleFullScreen" class="icon full-screen-mode">
+        <font-awesome-icon :icon="fullScreenMode ? icons.faCompress : icons.faExpand" fixed-width />
       </div>
-      <div
-        v-show="mode === 'current'"
-        @click="toggleVirtualBell"
-        class="icon virtual-bell-toggle"
-      >
-        <font-awesome-icon
-          :icon="useVirtualBell ? icons.faVolumeHigh : icons.faVolumeOff"
-          fixed-width
-        />
+      <div v-show="mode === 'current'" @click="toggleVirtualBell" class="icon virtual-bell-toggle">
+        <font-awesome-icon :icon="useVirtualBell ? icons.faVolumeHigh : icons.faVolumeOff" fixed-width />
       </div>
     </div>
 
-    <header-schedule
-      :in-school="inSchool"
-      :period="bell.getPeriodName()"
-      :range="bell.getRange()"
-      :schedule-type="bell.type"
-      :schedule-modes="scheduleModes"
-      :full-screen-mode="fullScreenMode"
-    />
+    <header-schedule :in-school="inSchool" :period="bell.getPeriodName()" :range="bell.getRange()"
+      :schedule-type="bell.type" :schedule-modes="scheduleModes" :full-screen-mode="fullScreenMode" />
 
     <announcements :full-screen-mode="fullScreenMode" />
-    <snow v-if="theme.name.toLowerCase() == 'winter'" :images="[snowflake]"/>
-    <snow v-if="theme.name.includes('Valentine')" :images="[heart]"/>
+    <snow v-if="theme.name.toLowerCase() == 'winter'" :images="[snowflake]" />
+    <snow v-if="theme.name.includes('Valentine')" :images="[heart]" />
 
   </div>
 </template>
@@ -191,10 +151,10 @@ export default {
       if (!school || period.afterSchool) {
         dayDifference = Math.floor(
           (nextSchoolDay.getTime() - date.getTime())
-            / 1000
-            / 60
-            / 60
-            / 24,
+          / 1000
+          / 60
+          / 60
+          / 24,
         );
         nextBell = new Bell(nextSchoolDay);
       }
@@ -389,7 +349,7 @@ export default {
     background-size: cover
     +desktop
       background: url(@/assets/occasions/spy-full.png) center center no-repeat, var(--header-color)
-      
+
   &.minecraft
     background: url(@/assets/occasions/minecraft-mobile.png) center center no-repeat, var(--header-color)
     background-size: cover
@@ -425,6 +385,11 @@ export default {
     background-size: 250px
     +mobile-small
       background-size: 150px
+  &.coding-environment
+    background: url(@/assets/occasions/coding-environment-mobile.png) center center no-repeat, var(--header-color)
+    background-size: cover
+    +desktop
+      background: url(@/assets/occasions/coding-environment-full.png) center center no-repeat, var(--header-color)
   &.eclipse
     background: url(@/assets/occasions/eclipse-mobile.png) center center no-repeat, var(--header-color)
     background-size: cover
